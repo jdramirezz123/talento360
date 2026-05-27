@@ -1,0 +1,673 @@
+IdPersona,Cédula,Primer apellido,Segundo apellido,Nombres,Nombre completo,Expedida,Tipo de sangre,Fecha nacimiento,Edad,Sexo
+PER001,21831c34b8e68c07,Rodríguez,Castro,Jorge,Jorge Rodríguez Castro,Valencia,B+,1966-04-21,60,F
+PER002,10d2622aa8b7eba2,Delgado,Franco,Rafael,Rafael Delgado Franco,Falan,B+,1970-02-16,56,F
+PER003,1b26e957fee114ac,Hernández,Osorio,Gladis,Gladis Hernández Osorio,Concordia,AB-,1963-04-21,63,F
+PER004,271612f84f9bf44d,Mosquera,Hernández,Nicolás,Nicolás Mosquera Hernández,Chalán,AB+,1990-05-18,35,F
+PER005,31b8bbe88148a256,Vergara,Rueda,Carolina,Carolina Vergara Rueda,Ábrego,A-,1989-08-17,36,M
+PER006,31bffe399ce19510,Ramírez,Valencia,Óscar,Óscar Ramírez Valencia,Norcasia,AB+,1990-06-12,35,F
+PER007,3e0356aa2d025662,Durán,Ospino,Esther,Esther Durán Ospino,Palestina,A-,1963-04-21,63,M
+PER008,3ea8f9477c5c1908,López,Herrera,Martha,Martha López Herrera,Copacabana,AB+,1969-04-21,57,F
+PER009,4d8815056ad33172,Gómez,Cano,María,María Gómez Cano,Vélez,A-,1994-09-03,31,M
+PER010,53250e87c2b02363,Carmona,Benavides,Jhon,Jhon Carmona Benavides,Tausa,A+,1995-12-03,30,M
+PER011,609dfc6fae2ae733,Osorio,Valencia,Diana,Diana Osorio Valencia,Arroyohondo,O+,1984-04-21,42,M
+PER012,6295f00d02e96911,López,Torres,Augusto,Augusto López Torres,Copacabana,AB-,1988-07-04,37,M
+PER013,6cae2e55a90a13f5,Duarte,Rojas,Johana,Johana Duarte Rojas,Pulí,B+,1991-12-05,34,M
+PER014,889d3bfea1049c8a,González,Flórez,Javier,Javier González Flórez,Chitaraque,A-,1972-03-26,54,F
+PER015,92ba24bcd510d584,Pineda,Vega,Valentina,Valentina Pineda Vega,Albania,AB-,1970-01-21,56,F
+PER016,b76a4c704b104cde,Ramos,Sánchez,Antonio,Antonio Ramos Sánchez,Cerro de San Antonio,AB-,1961-04-21,65,M
+PER017,b7970d5e3a5bb063,Romero,Sánchez,Luz,Luz Romero Sánchez,Liborina,AB-,1974-04-21,52,M
+PER018,da14ee1ede8801c9,Camacho,Bonilla,David,David Camacho Bonilla,Tierralta,A-,1993-04-21,33,M
+PER019,db9e9fcd115407ac,Rincón,Mejía,Gilberto,Gilberto Rincón Mejía,Santo Tomás,AB+,2000-04-21,26,M
+PER020,dfb22b8012787bfd,Murcia,Pinzón,Ricardo,Ricardo Murcia Pinzón,Alto Baudó,B-,1978-04-21,48,F
+PER021,e01a1927ff2dc519,Morales,Ramírez,Josué,Josué Morales Ramírez,Macaravita,O+,1984-08-05,41,M
+PER022,efe9be91c552f03a,Caicedo,Álvarez,Isabel,Isabel Caicedo Álvarez,Circasia,AB+,1991-03-01,35,F
+PER023,f2bc337e7da089ec,Gómez,Mejía,Roberto,Roberto Gómez Mejía,La Esperanza,AB-,1990-05-08,35,M
+PER024,f6e4cb4df93f14dc,Fonseca,Hernández,Edna,Edna Fonseca Hernández,San Carlos,B-,1966-07-19,59,F
+PER025,fd819eb959c2921c,Fonseca,Calderón,Alexander,Alexander Fonseca Calderón,Cerrito,AB+,1965-04-21,61,F
+PER026,38049f6804d1d599,Guzmán,Cruz,Luis,Luis Guzmán Cruz,Jardín,B-,1981-11-16,44,F
+PER027,826f3a6900a368bf,Ochoa,Villa,Carmen,Carmen Ochoa Villa,Apía,O+,1978-04-21,48,F
+PER028,d20ba1108c9c7df3,Valencia,Osorio,Alfonso,Alfonso Valencia Osorio,Puerto Parra,AB-,1995-04-21,31,F
+PER029,2ae86e5f891dd741,Álvarez,Torres,Gloria,Gloria Álvarez Torres,Tabio,B-,1993-08-04,32,F
+PER030,6725eb52c451fd29,Galvis,Muñoz,Camilo,Camilo Galvis Muñoz,Tunja,A+,2003-04-21,23,F
+PER031,846c9b071ed05bdf,Silva,Palacios,José,José Silva Palacios,El Playón,B+,1996-04-21,30,M
+PER032,acbf015e516ad455,López,Murcia,Luis,Luis López Murcia,Barichara,O+,1962-04-21,64,M
+PER033,be596188fb1e976d,Sánchez,Quintero,Angie,Angie Sánchez Quintero,Consacá,A+,1992-05-30,33,F
+PER034,5fb51788ea661200,Hernández,Cáceres,Abel,Abel Hernández Cáceres,Gachantivá,B+,1988-04-10,38,F
+PER035,8279af198218cb89,Quintero,Mosquera,Fernanda,Fernanda Quintero Mosquera,Purísima de la Concepción,A-,1988-09-16,37,M
+PER036,efa9ce28168cd1d2,Guerrero,Ruiz,Jairo,Jairo Guerrero Ruiz,Betulia,O+,1976-08-29,49,F
+PER037,06c873a4f653a296,Marín,López,María,María Marín López,Puerto Gaitán,AB-,1977-04-21,49,F
+PER038,11d1f643e22f9649,González,Silva,Wendy,Wendy González Silva,Herveo,A-,1963-04-21,63,F
+PER039,4a8e17e5b5e00423,López,Romero,Andrés,Andrés López Romero,Pueblo Rico,AB-,1969-04-21,57,M
+PER040,4efded42ea2c956d,Castellanos,Acosta,Humberto,Humberto Castellanos Acosta,Hobo,A+,1979-05-17,46,M
+PER041,52a9fd9353507f9f,Triana,Guerrero,Ofelia,Ofelia Triana Guerrero,Oicatá,B-,2002-04-21,24,M
+PER042,568ba083c3289fcf,Álvarez,Salazar,Dario,Dario Álvarez Salazar,La Llanada,B+,1996-08-17,29,M
+PER043,5d06a5f5916c202f,Becerra,Pardo,Héctor,Héctor Becerra Pardo,Buenavista,AB+,1997-04-21,29,M
+PER044,6489e366a0c59963,Velásquez,Sánchez,María,María Velásquez Sánchez,Labranzagrande,A-,1993-05-11,32,M
+PER045,773d5edf8d5f4e60,Erazo,Cantillo,Ricardo,Ricardo Erazo Cantillo,Momil,AB-,1963-04-21,63,M
+PER046,7f7af0f8414c7812,Arteaga,Prieto,Denis,Denis Arteaga Prieto,Melgar,A-,1984-11-07,41,F
+PER047,838d020175311e44,Sánchez,Ruiz,Fernando,Fernando Sánchez Ruiz,Mesetas,AB+,1975-03-08,51,F
+PER048,9667ff68524459c3,Díaz,Caro,Andrés,Andrés Díaz Caro,Repelón,AB+,1988-07-05,37,F
+PER049,9d6419290b20ebfe,López,Galvis,Clara,Clara López Galvis,Cunday,B+,1990-04-21,36,M
+PER050,c1aed84f0a531dbf,Trujillo,Ángel,Luis,Luis Trujillo Ángel,Cocorná,O+,1966-04-21,60,F
+PER051,ef307ea5aed56216,González,Giraldo,Alveiro,Alveiro González Giraldo,Quetame,AB+,1968-04-21,58,M
+PER052,f7eae89f1d19d3cc,Estrada,Quintero,Jesús,Jesús Estrada Quintero,Carmen de Carupa,B-,1968-04-21,58,F
+PER053,062a4660d6fb55e3,Díaz,Gutiérrez,Carmen,Carmen Díaz Gutiérrez,Entrerríos,B-,1982-04-21,44,M
+PER054,25298077c3d656b8,Jaramillo,Gómez,Paola,Paola Jaramillo Gómez,El Litoral del San Juan,B-,1979-03-21,47,F
+PER055,6c25ebd36624c848,Rodríguez,Cuéllar,José,José Rodríguez Cuéllar,Ipiales,AB-,2004-04-21,22,M
+PER056,6fea836f6e479c2d,Rivera,Naranjo,Wilmer,Wilmer Rivera Naranjo,Manatí,O-,1962-04-21,64,F
+PER057,7cde4e1f49598a38,Mesa,González,Alberto,Alberto Mesa González,Roldanillo,A+,1996-04-21,30,F
+PER058,838d6fa854f57bd6,Camacho,Mena,Luis,Luis Camacho Mena,Ventaquemada,O-,1987-04-21,39,M
+PER059,8ef246bf5a57fe4e,Mesa,Torres,Miguel,Miguel Mesa Torres,Samaná,O-,2002-04-21,24,M
+PER060,9317429731cc6102,Bustos,Valencia,María,María Bustos Valencia,Cerrito,B+,1967-04-21,59,F
+PER061,b8e471d1a5cd3fb8,Barbosa,Arias,Mauricio,Mauricio Barbosa Arias,La Victoria,AB-,1996-04-21,30,F
+PER062,b9e9bafc3f87b93c,Daza,Rincón,Claudia,Claudia Daza Rincón,Tota,AB+,1998-04-21,28,M
+PER063,bac855a62ca0a914,Gómez,Medina,Ingrid,Ingrid Gómez Medina,Jordán,A+,1991-04-21,35,M
+PER064,c91b04ab39538623,Jiménez,Torres,Libardo,Libardo Jiménez Torres,Puerto Salgar,AB-,1985-04-21,41,F
+PER065,d16b2de1ef1bb211,González,Rivera,María,María González Rivera,Puerto Rico,B-,1963-04-21,63,F
+PER066,df0c3063736f7340,Guerrero,Arias,Duván,Duván Guerrero Arias,Vigía del Fuerte,AB+,1988-04-21,38,F
+PER067,f228496701d05f03,Bonilla,Correa,Cecilia,Cecilia Bonilla Correa,Mogotes,AB-,1985-10-24,40,F
+PER068,4499a4989a254a65,Gómez,Ruiz,Dario,Dario Gómez Ruiz,"Bogotá, D.C.",O+,1985-09-05,40,F
+PER069,bd0afeed9139f444,Rivera,Álvarez,Eduardo,Eduardo Rivera Álvarez,Suaita,AB+,1962-04-21,64,M
+PER070,f57ad05dab313c8e,Córdoba,Espinosa,Walter,Walter Córdoba Espinosa,Girón,O+,1989-04-21,37,M
+PER071,e4643a526b125059,Díaz,Rojas,Cristian,Cristian Díaz Rojas,Prado,O+,1981-04-21,45,M
+PER072,022392f39b34967a,Meza,Bastidas,Mario,Mario Meza Bastidas,Guadalupe,O-,1992-04-21,34,F
+PER073,1f3adfc33653d74e,Álvarez,Torres,Andrés,Andrés Álvarez Torres,Turbo,A-,1963-04-21,63,F
+PER074,42f6b670ed7e054a,González,Hoyos,William,William González Hoyos,Momil,A-,1972-03-08,54,M
+PER075,790cb1a6071bd7d7,Gaviria,Hernández,Martha,Martha Gaviria Hernández,El Rosario,A-,1983-07-20,42,F
+PER076,1296c7ed45259751,Guerrero,Ramírez,Teresa,Teresa Guerrero Ramírez,Cacahual,B-,2004-04-21,22,M
+PER077,b95897b375170937,Giraldo,Arias,Andrés,Andrés Giraldo Arias,Morichal,A-,1966-04-21,60,F
+PER078,069235dd7fb5b09f,Soto,Maldonado,Matilde,Matilde Soto Maldonado,San Onofre,A+,2004-04-21,22,F
+PER079,ad43ffdcdc1cb15f,Sánchez,Bohórquez,María,María Sánchez Bohórquez,Viracachá,A+,1965-12-22,60,M
+PER080,464b04e4801a7da6,Guzmán,Cardona,Lorena,Lorena Guzmán Cardona,Pinchote,AB-,1980-04-21,46,F
+PER081,69a962914d4aa20c,Perdomo,Leal,Martha,Martha Perdomo Leal,Abriaquí,A-,1988-01-23,38,M
+PER082,6c21644a673b220a,Guerrero,Betancur,Dario,Dario Guerrero Betancur,Trujillo,AB+,1998-04-21,28,F
+PER083,0d5d11de7876f16f,Rangel,Vargas,Andrea,Andrea Rangel Vargas,San Marcos,AB+,2002-09-13,23,F
+PER084,1beb9a3bb195f452,Muñoz,Arias,Antonia,Antonia Muñoz Arias,Guacamayas,A-,1969-04-21,57,M
+PER085,5ae0900066a5ca3a,Giraldo,Camacho,Nayibe,Nayibe Giraldo Camacho,Pijao,B-,1976-04-21,50,F
+PER086,5b4e38dc403d303f,Muñoz,Vargas,Cielo,Cielo Muñoz Vargas,Villagómez,A-,1981-09-14,44,F
+PER087,806dd8fb5b3083b0,García,Molina,Carolina,Carolina García Molina,Villavicencio,A-,1998-04-21,28,M
+PER088,e27f42c8b2462bc6,Hurtado,Herrera,María,María Hurtado Herrera,Albania,A-,1982-03-07,44,F
+PER089,1fb3460ed8f2e9d7,Ordóñez,Gaviria,Norberto,Norberto Ordóñez Gaviria,Yacuanquer,AB-,1984-04-21,42,M
+PER090,32dfea1ebddb1610,Galvis,Martínez,Luz,Luz Galvis Martínez,Albania,B-,1963-04-21,63,M
+PER091,6b0fbaeb935eab63,Rosero,Estrada,Ernesto,Ernesto Rosero Estrada,El Peñol,B-,1983-12-22,42,F
+PER092,998b14b74c633ad5,López,Mejía,Liliana,Liliana López Mejía,Contratación,A+,1994-07-03,31,M
+PER093,d9c48347fa259cc9,López,Gómez,José,José López Gómez,Chíquiza,AB-,1992-05-01,33,F
+PER094,edfc5896ab695782,Sánchez,Palacio,Eliana,Eliana Sánchez Palacio,Isnos,AB+,1961-04-21,65,M
+PER095,ee09645287a1e064,Ochoa,Castañeda,Patricia,Patricia Ochoa Castañeda,Panqueba,A-,1980-08-14,45,M
+PER096,2eb6ce44f505e9b1,Patiño,González,Esperanza,Esperanza Patiño González,La Vega,B-,1973-04-21,53,F
+PER097,4946377eb0fcb200,Medina,Sánchez,Andrea,Andrea Medina Sánchez,Corinto,O+,1973-04-21,53,M
+PER098,56e8d5901ad8bd99,Rojas,Vásquez,Alberto,Alberto Rojas Vásquez,San Lorenzo,B-,1961-04-21,65,F
+PER099,731649cd05a26165,Castro,Forero,Eduard,Eduard Castro Forero,Tipacoque,AB-,1988-01-14,38,M
+PER100,82a5cda9be6bf068,Olaya,Bustamante,Mario,Mario Olaya Bustamante,Ciénega,O-,1991-05-30,34,M
+PER101,ab75c15a86da3c0f,Pérez,Castrillón,Javier,Javier Pérez Castrillón,Guatavita,B-,1984-07-05,41,M
+PER102,cf517161b36067c6,Hurtado,Serna,Luis,Luis Hurtado Serna,Convención,B+,1983-04-21,43,F
+PER103,ed6b856b2cbccdae,López,García,Alirio,Alirio López García,Pueblorrico,B+,1965-04-21,61,M
+PER104,79a12d0a0aeadad2,Díaz,González,Esther,Esther Díaz González,La Peña,B-,1976-01-15,50,F
+PER105,59b7da70a82c8774,Galvis,Martínez,Alonso,Alonso Galvis Martínez,La Llanada,B+,1975-04-21,51,M
+PER106,3a3ba21a76f19803,Guzmán,Medina,Fabián,Fabián Guzmán Medina,Tame,B-,1977-04-21,49,F
+PER107,5a6c6a147458e989,Bohórquez,Loaiza,José,José Bohórquez Loaiza,Arenal,O+,1983-04-21,43,F
+PER108,9a1990b7909a6ef6,Quintero,Salcedo,María,María Quintero Salcedo,San José de la Montaña,O-,1977-04-21,49,F
+PER109,b290ea85ee695662,Hurtado,Gaviria,Kelly,Kelly Hurtado Gaviria,Tiquisio,A-,2001-04-21,25,M
+PER110,c8a7c414b6895c70,Trujillo,Tovar,Julián,Julián Trujillo Tovar,Gutiérrez,B-,1984-04-21,42,F
+PER111,c4fc24ff8de23753,Zambrano,García,Bayron,Bayron Zambrano García,Puerto Triunfo,O+,1961-04-21,65,M
+PER112,031199efd5cfe066,Sánchez,Barrios,Mercedes,Mercedes Sánchez Barrios,Francisco Pizarro,B-,1976-10-08,49,M
+PER113,65d1ca5a8c62791e,Castro,Hernández,Paola,Paola Castro Hernández,La Pintada,O+,1969-04-21,57,M
+PER114,782131be38099474,Becerra,Gómez,Guillermo,Guillermo Becerra Gómez,Pijiño del Carmen,AB+,1965-04-21,61,M
+PER115,798e2828f035e462,Valencia,Mesa,Isabel,Isabel Valencia Mesa,Villavicencio,AB+,1983-04-21,43,F
+PER116,0122aa4029ce5bab,Amaya,Sánchez,Patricia,Patricia Amaya Sánchez,Coromoro,AB-,1994-04-21,32,M
+PER117,1c84e41b14b3c1f7,Torres,Díaz,Adiela,Adiela Torres Díaz,Bolívar,AB-,1972-12-10,53,F
+PER118,23e3bf1c65637bc1,Díaz,Cortés,Esteban,Esteban Díaz Cortés,La Paz,A-,1984-04-21,42,F
+PER119,3f673c7aed201f80,Bautista,Álvarez,María,María Bautista Álvarez,Roncesvalles,B-,1986-10-14,39,F
+PER120,7757aeda3b431670,Álvarez,Alzate,Francy,Francy Álvarez Alzate,El Charco,O-,1970-04-21,56,F
+PER121,79cb2934bcd07fdc,Flórez,Bernal,Dahiana,Dahiana Flórez Bernal,Concepción,B+,1988-04-21,38,M
+PER122,881670382b9c2e57,Vega,López,Alejandra,Alejandra Vega López,Planeta Rica,AB+,1979-04-21,47,M
+PER123,9bae38e7639adb2a,Pinto,Daza,María,María Pinto Daza,Supía,B+,1981-04-21,45,F
+PER124,bb0923d803f91c2b,Martínez,Torres,José,José Martínez Torres,Guamo,A+,1962-04-21,64,F
+PER125,cef2ccd62885fd3f,Salazar,Tovar,Luis,Luis Salazar Tovar,Nariño,B-,1988-05-04,37,M
+PER126,de10ae672fd601ca,Valencia,Gómez,Sandra,Sandra Valencia Gómez,La Unión,O+,1987-09-24,38,F
+PER127,e322b8603ca2c137,Ramos,Zuluaga,María,María Ramos Zuluaga,Páez,AB-,1958-11-06,67,F
+PER128,ec1a3e2bd0268082,Delgado,Agudelo,Karen,Karen Delgado Agudelo,Fúquene,O-,1976-04-21,50,F
+PER129,f5510a1f7f0cb494,Patiño,Caballero,Nidia,Nidia Patiño Caballero,Zapayán,O-,1986-04-21,40,M
+PER130,03b59cfb76be05e3,Torres,Hernández,Fernando,Fernando Torres Hernández,Pueblorrico,O-,1996-04-21,30,M
+PER131,0867838b60065981,Cárdenas,Arias,Andrés,Andrés Cárdenas Arias,Briceño,O-,1991-04-21,35,M
+PER132,0e71bab23c911431,Padilla,Díaz,Daniel,Daniel Padilla Díaz,Dosquebradas,A+,1968-10-14,57,M
+PER133,1253dcd13bf90532,Ortega,Pulido,Jackeline,Jackeline Ortega Pulido,Puerto Carreño,AB-,1994-05-22,31,F
+PER134,3589a0ceb118412d,Niño,Ramírez,Gloria,Gloria Niño Ramírez,Neiva,AB+,1968-09-13,57,M
+PER135,40453290c6b0881c,Olaya,Riascos,Efrain,Efrain Olaya Riascos,La Victoria,AB+,2004-04-21,22,M
+PER136,414a53b943e53a25,Mora,Escobar,Isaac,Isaac Mora Escobar,Hato Corozal,O-,1968-02-24,58,M
+PER137,4d4d1e50d0a292c6,Mena,Jiménez,Laura,Laura Mena Jiménez,Barbosa,A+,1986-12-21,39,M
+PER138,504efb0b14817b8b,Jiménez,Vargas,Carlos,Carlos Jiménez Vargas,Murillo,B+,1979-12-09,46,M
+PER139,5dbadfed9c041b60,Camargo,Arteaga,María,María Camargo Arteaga,Covarachía,O+,1980-12-04,45,F
+PER140,6856b8609dc5f24a,Sánchez,Rangel,Alexandra,Alexandra Sánchez Rangel,La Unión,B-,1970-06-24,55,F
+PER141,6e4cac7a81301867,González,Mercado,Jhon,Jhon González Mercado,Tarqui,AB-,1976-04-21,50,F
+PER142,82c43f9b8dc1f21e,Castro,Benavides,Sandra,Sandra Castro Benavides,Candelaria,AB-,1991-04-21,35,F
+PER143,96e830ac0b818dad,Torres,Herrera,Oliva,Oliva Torres Herrera,Durania,O-,1984-03-02,42,M
+PER144,9aafd98478f5750d,Amaya,Villa,Hernán,Hernán Amaya Villa,Páramo,AB+,1979-04-21,47,F
+PER145,9f4f5fc6b70ec122,Ceballos,Hoyos,José,José Ceballos Hoyos,Ayapel,AB-,1962-06-14,63,F
+PER146,a1370edac5c252a3,Cárdenas,Sierra,Alberto,Alberto Cárdenas Sierra,Facatativá,A-,1978-07-25,47,M
+PER147,a8d779aabbfc3e10,Herrera,Mosquera,Rocío,Rocío Herrera Mosquera,San Pedro de los Milagros,A-,1961-04-21,65,F
+PER148,cd85f1747c1a6402,Herrera,Díaz,Oswaldo,Oswaldo Herrera Díaz,Giraldo,B-,1979-08-10,46,M
+PER149,d33b4b923fd6cebb,Serna,Henao,Javier,Javier Serna Henao,Florencia,A-,1999-04-21,27,F
+PER150,d48664525144b5fa,Meneses,Ortega,Patricia,Patricia Meneses Ortega,Ayapel,O+,1988-08-08,37,M
+PER151,e700b67f1ae1d46e,Vásquez,Ardila,Isabel,Isabel Vásquez Ardila,Campo de la Cruz,B-,1968-04-11,58,F
+PER152,e83439dfa6d51ebc,García,Vega,Mirian,Mirian García Vega,Tipacoque,B-,1983-04-21,43,F
+PER153,122057f1131490a5,Navarro,Patiño,Gloria,Gloria Navarro Patiño,Riosucio,B+,2000-04-21,26,F
+PER154,36965b44a29fe57b,Mendoza,Ortiz,Andrés,Andrés Mendoza Ortiz,Sipí,A+,1966-11-17,59,F
+PER155,5f2b1cd3d00bc293,Suárez,Daza,Omar,Omar Suárez Daza,Florida,A+,1961-12-28,64,M
+PER156,871e6fa41552a8ce,López,Rojas,Cecilia,Cecilia López Rojas,Briceño,AB-,1986-10-17,39,F
+PER157,555e0122c2a88bd2,Villa,Bedoya,Patricia,Patricia Villa Bedoya,Taminango,O-,1970-04-21,56,F
+PER158,85a6c77871eafb9f,Salcedo,Castellanos,Alejandro,Alejandro Salcedo Castellanos,Pamplona,AB+,1988-02-20,38,F
+PER159,c4a28687ba301f78,Álvarez,Torres,Nubia,Nubia Álvarez Torres,Villeta,B+,1975-02-28,51,M
+PER160,43ee6d7ba61863c5,Ramírez,Castillo,Amelia,Amelia Ramírez Castillo,Garagoa,A-,1989-04-21,37,M
+PER161,a98e487fa9a99702,Sánchez,Díaz,Patricia,Patricia Sánchez Díaz,Zipacón,B+,1986-04-21,40,M
+PER162,c8643db1f6b8f658,Gómez,Chacón,Dayana,Dayana Gómez Chacón,Supía,AB-,1963-04-17,63,F
+PER163,033af3e3ba059d08,Giraldo,Ramírez,Tulio,Tulio Giraldo Ramírez,Pital,O-,1972-04-21,54,M
+PER164,385dd16b942f7600,Alarcón,Álvarez,Alexander,Alexander Alarcón Álvarez,Mutiscua,A+,1997-05-05,28,F
+PER165,639bb943fcdbfc44,Martínez,González,María,María Martínez González,San Joaquín,B-,1989-09-18,36,M
+PER166,83793e64dde223f4,Villamizar,Vega,David,David Villamizar Vega,Orito,A+,1983-10-22,42,M
+PER167,8e3a78de7787633c,Ruiz,Fernández,Yaneth,Yaneth Ruiz Fernández,El Carmen de Viboral,A-,1994-04-21,32,F
+PER168,b1b4772141c0e475,Hoyos,Gutiérrez,Luis,Luis Hoyos Gutiérrez,La Uvita,AB-,1985-04-21,41,F
+PER169,d99d775cf20a54f3,Torres,Salazar,Luz,Luz Torres Salazar,Ricaurte,B+,1987-12-21,38,F
+PER170,08885628d11ca9eb,Salcedo,Osorio,Dayana,Dayana Salcedo Osorio,Acacías,AB+,1982-04-21,44,M
+PER171,0a0a19c594309155,Flórez,García,Maira,Maira Flórez García,Juan de Acosta,O-,2000-04-21,26,F
+PER172,0c4e7662f9eda618,Arteaga,Mejía,Fernando,Fernando Arteaga Mejía,Tocancipá,AB+,1992-04-21,34,M
+PER173,0fc9293ffc5ec86f,Vargas,Castellanos,Carlos,Carlos Vargas Castellanos,La Guadalupe,B-,1986-04-21,40,F
+PER174,12441ec6c67a2be7,Pérez,Vega,Martha,Martha Pérez Vega,Tota,A+,1994-04-21,32,M
+PER175,1785456a7dc5c37e,Vallejo,Muñoz,Rosalba,Rosalba Vallejo Muñoz,Pivijay,O-,1975-04-21,51,F
+PER176,179851566694af78,Rodríguez,Silva,Erika,Erika Rodríguez Silva,Soracá,A-,1969-04-21,57,F
+PER177,191ed5dc25808c96,Forero,Pérez,Luis,Luis Forero Pérez,Planadas,A-,1984-04-21,42,M
+PER178,1948990ae3881203,Rodríguez,Morales,Fernando,Fernando Rodríguez Morales,Coper,B-,2000-04-21,26,F
+PER179,1b085f27dd456d48,Montes,Ochoa,Johana,Johana Montes Ochoa,Santa Marta,AB+,1981-10-02,44,M
+PER180,1c2c637343df8251,Mejía,Rojas,Luz,Luz Mejía Rojas,Zapatoca,B-,1971-04-21,55,F
+PER181,1e030f453721d9df,Zapata,Duque,Marcela,Marcela Zapata Duque,La Chorrera,O+,1966-05-19,59,M
+PER182,2186936290deb427,Rincón,González,Marcela,Marcela Rincón González,La Primavera,A-,1987-04-21,39,M
+PER183,23032b7decc7fd21,Arteaga,Padilla,Luis,Luis Arteaga Padilla,Buenavista,B-,1963-04-21,63,F
+PER184,241edf5473ad79b4,Perea,García,Liceth,Liceth Perea García,Sampués,O-,1982-04-21,44,M
+PER185,278e525d645466d6,González,Aguilar,Patricia,Patricia González Aguilar,San Andrés de Tumaco,AB+,1958-04-07,68,M
+PER186,28743664b0e2b189,Barbosa,Mosquera,Francisco,Francisco Barbosa Mosquera,Pijao,B+,1973-04-21,53,M
+PER187,2b135a66f1c23303,Martínez,Gómez,Nicolás,Nicolás Martínez Gómez,Támesis,AB-,1990-04-21,36,F
+PER188,2d1cca9fd8229203,Ortega,Rosero,Marco,Marco Ortega Rosero,Manzanares,B-,1978-04-21,48,M
+PER189,2f0facd3f829053b,Rivera,Navarro,Edgar,Edgar Rivera Navarro,Sogamoso,O+,1956-11-24,69,M
+PER190,30f99020bbc1946a,Pacheco,Salas,Andrea,Andrea Pacheco Salas,Guacamayas,O-,1995-07-26,30,F
+PER191,3352f114703ed8ba,Valencia,Acosta,Humberto,Humberto Valencia Acosta,San José del Guaviare,AB+,1966-04-21,60,M
+PER192,33e4366ebaf6d82e,Duque,Arenas,Nancy,Nancy Duque Arenas,Providencia,B+,1987-04-21,39,M
+PER193,35b5862e27fd43e8,Ramírez,Álvarez,Michael,Michael Ramírez Álvarez,Tibú,A-,1997-04-21,29,M
+PER194,36f3b96e95856945,Luna,Ortiz,Raquel,Raquel Luna Ortiz,Bolívar,O-,1976-07-31,49,F
+PER195,37b5968f6c29852b,Meneses,Cifuentes,Ana,Ana Meneses Cifuentes,Imués,O+,1996-04-21,30,M
+PER196,389a5a676fe1cc15,Bustos,Sierra,Marta,Marta Bustos Sierra,Sabanalarga,A-,1980-03-15,46,M
+PER197,38c5626dc3a4d682,Bedoya,Villamizar,Margarita,Margarita Bedoya Villamizar,Venadillo,AB+,2000-04-21,26,M
+PER198,392f5fff78ffdbaa,Ocampo,García,Jorge,Jorge Ocampo García,La Ceja,AB+,1986-04-21,40,F
+PER199,3975d3eb6e686ebe,Pacheco,Naranjo,Cristian,Cristian Pacheco Naranjo,Quimbaya,A-,1971-04-21,55,M
+PER200,3cfa7bb32294e02b,Salazar,Vera,Edison,Edison Salazar Vera,Concepción,B-,1970-01-29,56,F
+PER201,3e96e7f6c65a47f8,Camargo,Serna,José,José Camargo Serna,Garzón,A-,2000-04-21,26,M
+PER202,4181781f901a343e,Benavides,González,Cecilia,Cecilia Benavides González,Copacabana,O-,1966-04-21,60,F
+PER203,43593fa36d832dd3,Montes,Romero,Sandra,Sandra Montes Romero,La Esperanza,O+,1985-03-06,41,M
+PER204,44330cded4611d94,Díaz,Delgado,Jesús,Jesús Díaz Delgado,Gama,B+,1980-04-21,46,F
+PER205,4513a26ac4df5fc6,Ramos,Cifuentes,Iván,Iván Ramos Cifuentes,Valle de San Juan,B+,1986-04-21,40,M
+PER206,46805bd7870d6add,Vásquez,Durán,Nidia,Nidia Vásquez Durán,Dolores,A+,1980-04-21,46,F
+PER207,477d794d218f5518,Patiño,Toro,Joaquín,Joaquín Patiño Toro,Gámeza,O-,1975-07-03,50,F
+PER208,47d86f339517a76c,Rentería,Contreras,Franklin,Franklin Rentería Contreras,Arboletes,AB+,2001-04-21,25,F
+PER209,486dedcd30c1322a,Castaño,Sánchez,Bryan,Bryan Castaño Sánchez,Tibaná,B-,1985-04-28,40,F
+PER210,4addba36559c8cef,Díaz,Ríos,Hermes,Hermes Díaz Ríos,Cerro de San Antonio,A-,1977-04-21,49,M
+PER211,4b0bf7cb55aaa825,Moreno,Alfonso,María,María Moreno Alfonso,Samaná,O+,1994-04-21,32,M
+PER212,4f8cd2fd926da2b6,Vargas,Flórez,Oliva,Oliva Vargas Flórez,Caicedo,B+,1979-03-21,47,M
+PER213,50e872b6c498faec,Murillo,Posada,Kelly,Kelly Murillo Posada,Rionegro,A+,1977-04-21,49,M
+PER214,5569ce56515a7cdb,Pérez,Guerrero,Yolima,Yolima Pérez Guerrero,Guadalajara de Buga,A+,1963-04-21,63,M
+PER215,586b5a878937254c,Martínez,Castro,Carolina,Carolina Martínez Castro,Barichara,B+,1984-04-21,42,M
+PER216,5c79916c6ab6e594,Aguirre,Correa,Fernando,Fernando Aguirre Correa,Cotorra,B-,1968-04-21,58,F
+PER217,5fe82cce8bdeb0b1,López,Benítez,Tatiana,Tatiana López Benítez,San Estanislao,O+,1962-04-21,64,M
+PER218,6055035657c8a73b,Valencia,Castro,Catalina,Catalina Valencia Castro,Chalán,O-,1973-08-25,52,M
+PER219,6166e3eccf9dfb1e,Valencia,Parra,Maira,Maira Valencia Parra,Angostura,B+,1989-04-21,37,F
+PER220,640ffdacbb82d5a2,Torres,Meneses,Humberto,Humberto Torres Meneses,Samaniego,A-,1967-02-07,59,M
+PER221,6513767d1e8f999b,Barrios,Sánchez,Yazmín,Yazmín Barrios Sánchez,Puerto Guzmán,AB-,2000-04-21,26,F
+PER222,665ace3718df03e9,Álvarez,Valencia,Olga,Olga Álvarez Valencia,Gramalote,AB-,1967-04-21,59,F
+PER223,67b7c2be3b97f798,Duarte,García,Stella,Stella Duarte García,Corozal,AB+,1987-04-08,39,F
+PER224,67cd3b44da124579,Rojas,Trujillo,Ana,Ana Rojas Trujillo,Puerto Leguízamo,A-,1982-09-02,43,F
+PER225,693349bf3228e3df,Caicedo,Guerra,Paula,Paula Caicedo Guerra,Atrato,AB-,1974-04-21,52,F
+PER226,696f446151cee577,Cáceres,Martínez,René,René Cáceres Martínez,Pasto,B+,1983-04-21,43,F
+PER227,6a8f53ab2564c6bd,Delgado,Álvarez,Milena,Milena Delgado Álvarez,La Guadalupe,B-,1982-04-21,44,F
+PER228,6ad5c018c3077a03,Bravo,Cáceres,Juan,Juan Bravo Cáceres,Ocamonte,O+,1981-04-21,45,M
+PER229,6f52bb044b44f109,Zapata,Herrera,María,María Zapata Herrera,Villanueva,A+,1987-09-13,38,M
+PER230,7512610775cf8ef6,Velásquez,Mosquera,Juan,Juan Velásquez Mosquera,El Rosario,O-,1988-05-18,37,F
+PER231,7831596a3d15ec2b,Orozco,Barbosa,Arturo,Arturo Orozco Barbosa,Suan,A-,1986-08-16,39,M
+PER232,7a9b0710c80249cd,Muñoz,Torres,Graciela,Graciela Muñoz Torres,Guamal,A+,1963-11-05,62,F
+PER233,7b50829bf567d76b,Martínez,Gutiérrez,Valeria,Valeria Martínez Gutiérrez,Concordia,A-,1976-03-21,50,F
+PER234,7f10a09c18239c2a,Martínez,González,María,María Martínez González,Tame,AB+,1961-04-21,65,M
+PER235,7f41a6eb0f4e3db7,Acevedo,Luna,Inés,Inés Acevedo Luna,Cartagena del Chairá,O+,1967-04-23,58,F
+PER236,81e6228d4595c8bd,Rojas,Gaitán,Francia,Francia Rojas Gaitán,Sora,AB+,1981-04-21,45,M
+PER237,8270f13309a4258a,Ramírez,Gómez,Alberto,Alberto Ramírez Gómez,San José de Toluviejo,AB-,1965-04-21,61,F
+PER238,88a696b44735e42e,Giraldo,Caicedo,Andrea,Andrea Giraldo Caicedo,Chachagüí,B-,1968-04-21,58,M
+PER239,8a50911e1cde66a6,Zapata,García,Blanca,Blanca Zapata García,Bochalema,AB+,1965-12-09,60,M
+PER240,8acb6f8da269e2fa,Duarte,Duque,Gloria,Gloria Duarte Duque,Ricaurte,AB+,1968-04-21,58,M
+PER241,8cdd4b875723ce23,Cárdenas,López,Alejandra,Alejandra Cárdenas López,Ráquira,O-,1971-04-21,55,M
+PER242,8f46e6e80afb1e1c,Romero,Moreno,Sandra,Sandra Romero Moreno,San Zenón,O-,1976-01-29,50,F
+PER243,8fbb1c012fe45a9d,Bermúdez,Correa,Dayana,Dayana Bermúdez Correa,Peque,B-,1980-04-21,46,M
+PER244,90bab995c7607a1d,Gómez,Barrera,Rafael,Rafael Gómez Barrera,Motavita,O+,1973-04-21,53,F
+PER245,90f392b158501e59,Giraldo,Pérez,Amparo,Amparo Giraldo Pérez,Lorica,AB-,2004-04-21,22,F
+PER246,934d9a45b30465af,Sánchez,Rodríguez,Pablo,Pablo Sánchez Rodríguez,Pradera,B+,1970-04-21,56,F
+PER247,9356279a4a701363,Cardona,Lozano,César,César Cardona Lozano,Suaza,A-,1996-04-21,30,F
+PER248,99704315528ed40a,Rosero,Silva,Olga,Olga Rosero Silva,Armenia,O+,1984-08-18,41,M
+PER249,9abbcbd3652449df,Rodríguez,Cortés,Arley,Arley Rodríguez Cortés,Caldas,B+,2003-04-21,23,M
+PER250,9d35a40520f4205c,Serrano,Rosero,José,José Serrano Rosero,Puerto Asís,A+,2003-04-21,23,F
+PER251,9ffa5a3bf5ed7c90,Torres,Parra,Jeferson,Jeferson Torres Parra,Anapoima,AB-,1988-04-21,38,M
+PER252,a06d715202401500,Fajardo,García,Karina,Karina Fajardo García,Lejanías,O-,1973-10-25,52,M
+PER253,a3045d41ec747ab8,Londoño,Prada,María,María Londoño Prada,Tamalameque,A-,1966-01-01,60,F
+PER254,a33fa73e08382c7c,Fuentes,Navarro,Marina,Marina Fuentes Navarro,Vianí,AB-,1963-03-18,63,F
+PER255,a4e9efe55a61c04b,Mendoza,Orozco,Isabel,Isabel Mendoza Orozco,La Guadalupe,O+,1997-04-21,29,M
+PER256,a88e1f3d38895668,Murcia,Castro,Eduardo,Eduardo Murcia Castro,Pamplona,B+,1987-04-21,39,M
+PER257,a9da83f3909b64cc,Bonilla,Riascos,Catalina,Catalina Bonilla Riascos,Carolina,O-,1986-04-21,40,F
+PER258,aa639e51e3730de8,Estrada,Soto,Gloria,Gloria Estrada Soto,Soledad,O-,1977-04-21,49,M
+PER259,ad112625d33abdc1,Rojas,Ospina,Óscar,Óscar Rojas Ospina,Aracataca,O-,1986-05-30,39,F
+PER260,b0230e9bc3f7e59f,Gaviria,Cifuentes,Claudia,Claudia Gaviria Cifuentes,Montecristo,A-,1971-12-05,54,F
+PER261,b0613e0530befded,Ramírez,González,Diana,Diana Ramírez González,Puerto Colombia,B-,2000-04-21,26,M
+PER262,b2d12e9cac73528d,Romero,Castillo,David,David Romero Castillo,Sincelejo,A-,1972-04-21,54,M
+PER263,b5967013f70ba756,Valencia,Ballesteros,Astrid,Astrid Valencia Ballesteros,Santa Bárbara de Pinto,AB-,1996-04-21,30,F
+PER264,b6ed129a5c02a1c2,Martínez,Gómez,Valentina,Valentina Martínez Gómez,El Carmen de Bolívar,O+,2001-04-21,25,F
+PER265,b7f20f9e7719d30e,Castellanos,Rueda,Marcela,Marcela Castellanos Rueda,Retiro,B+,1970-12-19,55,M
+PER266,b8986b669132c03f,Castellanos,Torres,Carlos,Carlos Castellanos Torres,Mirití - Paraná,B-,1965-05-08,60,F
+PER267,b8f1589a038390e4,Acosta,Maldonado,María,María Acosta Maldonado,Pasca,AB-,1980-04-21,46,M
+PER268,ba506bada91fbbe9,Hoyos,Ortega,Lina,Lina Hoyos Ortega,Río Iró,O+,1958-10-16,67,M
+PER269,bbbd72d9a4e67067,Rivas,Mesa,Horacio,Horacio Rivas Mesa,Guacamayas,B-,1974-04-21,52,F
+PER270,bc68c2854e34addb,López,Rangel,William,William López Rangel,Chinácota,B-,1963-04-21,63,M
+PER271,bd0222cc7e322999,Sánchez,Garzón,Luz,Luz Sánchez Garzón,Cáqueza,AB+,1991-04-21,35,M
+PER272,bfa2d8b77ac75ab3,Henao,Hernández,Johana,Johana Henao Hernández,Sucre,O-,1971-10-04,54,M
+PER273,c6ac87fb52665647,Osorio,Barragán,Abelardo,Abelardo Osorio Barragán,Ramiriquí,B-,1972-04-21,54,M
+PER274,c6ec7efde882c281,Vargas,Torres,María,María Vargas Torres,Los Santos,O-,1962-03-30,64,F
+PER275,c974c611c63949e3,Parra,Uribe,Oswaldo,Oswaldo Parra Uribe,Garzón,AB+,1973-12-23,52,M
+PER276,cc4da1d4c3f355c6,Rojas,Niño,Liliana,Liliana Rojas Niño,Guacarí,B+,1978-04-21,48,M
+PER277,cd1652dd17a1298b,Pérez,Londoño,María,María Pérez Londoño,Sabana de Torres,A-,1972-04-21,54,M
+PER278,cfa912c7891a5190,Rojas,Toro,Óscar,Óscar Rojas Toro,Nueva Granada,A+,1973-04-21,53,M
+PER279,d250e5e51ebe78e7,Ramos,Quintero,Hernando,Hernando Ramos Quintero,Nimaima,A+,1985-04-21,41,M
+PER280,d2696030b03f3f34,Vargas,Caicedo,Susana,Susana Vargas Caicedo,Santa Catalina,O+,1977-04-21,49,F
+PER281,d44adb9d1bab4444,Romero,Castrillón,José,José Romero Castrillón,La Argentina,A+,1984-04-21,42,M
+PER282,d6d65f7282a49ae9,Rojas,Mora,Henry,Henry Rojas Mora,Manaure,O+,1961-04-21,65,F
+PER283,d72bf155b722bc32,Córdoba,Díaz,Katherine,Katherine Córdoba Díaz,Papunahua,AB-,1984-04-21,42,M
+PER284,db0bca664a993c2a,Herrera,Beltrán,Antonio,Antonio Herrera Beltrán,Venadillo,A+,1999-04-21,27,F
+PER285,dbf4c42bbaf5feac,Ardila,Mosquera,María,María Ardila Mosquera,Tununguá,A-,2000-04-21,26,M
+PER286,dc9c08b7bfb991b5,Garcés,Murillo,María,María Garcés Murillo,Providencia,A-,1993-04-21,33,F
+PER287,df231caa8bbe5188,Ruiz,Ospina,Milena,Milena Ruiz Ospina,Apía,O+,1982-04-21,44,F
+PER288,e0fb0eac59b2985c,Castillo,Cruz,Teresa,Teresa Castillo Cruz,Puerto Nare,AB-,1979-11-21,46,M
+PER289,e4ab6c308a057f71,Mosquera,Jaimes,Alexander,Alexander Mosquera Jaimes,San Francisco,A+,1972-04-21,54,F
+PER290,e60b06118fc1ccd3,Reyes,Mosquera,David,David Reyes Mosquera,La Unión,O+,1968-04-21,58,M
+PER291,e66cd57c680387fb,Cabrera,Parra,José,José Cabrera Parra,San Antonio,AB-,1967-11-13,58,F
+PER292,e73554cbd3125389,Hernández,Correa,Mariana,Mariana Hernández Correa,Cisneros,A+,1972-04-21,54,M
+PER293,e7f74fadff75fa34,Vásquez,Montoya,Yudy,Yudy Vásquez Montoya,Cañasgordas,A+,1990-03-20,36,F
+PER294,e852becfe843b11b,Díaz,Hernández,Antonio,Antonio Díaz Hernández,San Francisco,O+,1957-09-20,68,F
+PER295,e892389daaa0e5e1,Gómez,Arroyo,Omaira,Omaira Gómez Arroyo,Pradera,B+,2002-04-21,24,F
+PER296,ec50fc9b5fb5e01a,Caicedo,Perea,Fabiola,Fabiola Caicedo Perea,Charalá,AB+,1995-12-12,30,F
+PER297,f061b6852382abd9,Arenas,Guzmán,Yineth,Yineth Arenas Guzmán,Anorí,O+,1988-04-21,38,M
+PER298,f0df333ec8d01844,Ocampo,Villegas,Alfonso,Alfonso Ocampo Villegas,Pelaya,AB-,1982-04-21,44,F
+PER299,f234e3f5614b231e,Castro,León,Luis,Luis Castro León,Filandia,AB-,1959-02-18,67,M
+PER300,f40d2c617e6b0c9d,López,Muñoz,Marina,Marina López Muñoz,La Celia,B-,1991-04-21,35,M
+PER301,ffc12c04397eb500,Aguilar,Oviedo,Sofía,Sofía Aguilar Oviedo,Florián,B+,1993-04-21,33,F
+PER302,350d32a32ab912d5,Salas,Cardona,Luis,Luis Salas Cardona,Concordia,AB-,1968-04-12,58,F
+PER303,47d4de572e3a8dbb,Rodríguez,Roa,Rosa,Rosa Rodríguez Roa,Lorica,AB+,1964-04-21,62,F
+PER304,4e06854a3196f86c,Henao,Castellanos,Guillermo,Guillermo Henao Castellanos,Morroa,A+,1980-04-21,46,M
+PER305,57f55b995db4d2d1,Pérez,Pérez,Jenny,Jenny Pérez Pérez,Quipile,A-,1987-06-17,38,M
+PER306,6750626f139c0803,Hernández,Bermúdez,Alberto,Alberto Hernández Bermúdez,Bolívar,A-,1986-04-21,40,M
+PER307,ab709100c9b0c444,Serrano,Bernal,Fredy,Fredy Serrano Bernal,Villahermosa,O+,1970-09-28,55,M
+PER308,c5a3c5fe87bae34a,Ríos,Palacios,Ángela,Ángela Ríos Palacios,Tena,B+,1991-04-21,35,F
+PER309,c97cb7bb0675533f,Vergara,Quintero,Andrés,Andrés Vergara Quintero,Cajamarca,A-,1993-04-21,33,M
+PER310,d600d9d486858e7b,Medina,Álvarez,José,José Medina Álvarez,El Dorado,A+,1977-04-21,49,F
+PER311,f4b735c7e29bf586,Gutiérrez,Rodríguez,Felipe,Felipe Gutiérrez Rodríguez,Guamal,A+,1993-04-21,33,F
+PER312,f78407d0f80c3fa5,Benítez,Pérez,Carlos,Carlos Benítez Pérez,San Pedro de los Milagros,B-,1974-09-14,51,M
+PER313,fdea04885afe3fc0,Gómez,López,Esteban,Esteban Gómez López,Suan,A+,2001-04-21,25,F
+PER314,8551547661002003,Quintero,García,Mayerly,Mayerly Quintero García,Silos,O+,1999-04-21,27,F
+PER315,142a189ffc76b3c1,Henao,Velásquez,Clara,Clara Henao Velásquez,Guática,B-,1970-04-21,56,F
+PER316,3265b6edcbca3d12,Rivera,Alzate,Rocío,Rocío Rivera Alzate,San Cayetano,B+,1981-04-21,45,M
+PER317,589e5391f91522e9,González,Peña,María,María González Peña,Santiago,B+,1982-04-21,44,M
+PER318,664d2bcd8cf5748a,Rodríguez,Delgado,Mireya,Mireya Rodríguez Delgado,Itagüí,AB-,1997-04-21,29,M
+PER319,6795c881e47611e2,Gutiérrez,Ramírez,Felipe,Felipe Gutiérrez Ramírez,San Juan Nepomuceno,A-,1968-04-21,58,F
+PER320,67e4ea9d41a1b214,Díaz,Córdoba,Tatiana,Tatiana Díaz Córdoba,Calamar,O-,1965-04-14,61,M
+PER321,8e8cbdb8cb02c884,Daza,Martínez,Patricia,Patricia Daza Martínez,Dosquebradas,AB+,1997-04-21,29,F
+PER322,a6b405fa73faa314,Álvarez,Rodríguez,Bibiana,Bibiana Álvarez Rodríguez,Taraira,AB+,1970-08-29,55,M
+PER323,ca839e5997a4214c,Cardona,Rodríguez,José,José Cardona Rodríguez,Riosucio,A+,1963-05-04,62,F
+PER324,fc12c49ff9c85460,Garzón,Torres,Nohora,Nohora Garzón Torres,Pinillos,A+,1968-04-21,58,M
+PER325,aa990f8928e3d07a,Montes,González,Edgar,Edgar Montes González,Majagual,AB+,1993-04-21,33,F
+PER326,c72f95cdfbd584a0,Ardila,Guzmán,Carlos,Carlos Ardila Guzmán,Vetas,A+,1962-04-21,64,M
+PER327,20da98d62f42fa3d,Prada,Meza,Óscar,Óscar Prada Meza,Ciénaga,B-,1983-04-21,43,M
+PER328,813622b7b93dbdad,Suárez,Guerrero,Natalia,Natalia Suárez Guerrero,Taminango,A+,2003-04-21,23,M
+PER329,ba342be015575914,Parra,Uribe,Andrés,Andrés Parra Uribe,Cértegui,A+,1966-02-23,60,F
+PER330,0fae6242ae9e3ac8,Carvajal,Sánchez,Fredy,Fredy Carvajal Sánchez,La Plata,A-,1975-04-21,51,M
+PER331,10059edfc60c1435,Hernández,Hernández,Jairo,Jairo Hernández Hernández,San Mateo,A-,1993-01-20,33,M
+PER332,12486be1dc85cb74,Pérez,Bautista,Cecilia,Cecilia Pérez Bautista,San José del Palmar,O+,1989-04-21,37,F
+PER333,1d523b7b10893cd8,Angulo,Caicedo,Javier,Javier Angulo Caicedo,Filandia,A+,1963-04-21,63,F
+PER334,1f80ed6f9b2a389b,Vera,Espitia,José,José Vera Espitia,Ventaquemada,A-,1966-01-30,60,F
+PER335,439baf5a11bea638,Murillo,Ospina,Mauricio,Mauricio Murillo Ospina,Pulí,B-,1960-05-20,65,F
+PER336,4c879f6d95656b6e,Puentes,Sarmiento,Valentina,Valentina Puentes Sarmiento,Cisneros,O-,1969-04-21,57,M
+PER337,4c88053c399f8f89,Rojas,Rodríguez,Andrea,Andrea Rojas Rodríguez,Acacías,A-,1965-12-04,60,F
+PER338,4d9006933c45ce64,González,Delgado,Ester,Ester González Delgado,El Molino,B+,1974-04-21,52,F
+PER339,52afbcaf426e449f,Villa,Serna,Paola,Paola Villa Serna,Cucutilla,AB+,1999-04-21,27,F
+PER340,568e05e7bf863362,Córdoba,Pérez,Ricardo,Ricardo Córdoba Pérez,Teruel,O+,1968-04-21,58,M
+PER341,650b716457d16c77,Zapata,Padilla,David,David Zapata Padilla,El Águila,AB-,1982-04-21,44,F
+PER342,6b31b8cd1739ddb5,Bermúdez,Díaz,Andrés,Andrés Bermúdez Díaz,Santiago,A-,1981-04-21,45,M
+PER343,6e22440e40fa38e1,Pinzón,Alfonso,Luz,Luz Pinzón Alfonso,Guapotá,O-,1969-04-21,57,F
+PER344,6fff34590cb784b7,Peña,Moreno,Jaime,Jaime Peña Moreno,Íquira,A-,1960-10-03,65,M
+PER345,77a39fb1c6aeded3,Olaya,Rodríguez,César,César Olaya Rodríguez,Papunahua,A-,1965-04-21,61,F
+PER346,a538de80679869df,Herrera,Pacheco,Kevin,Kevin Herrera Pacheco,Sabanas de San Ángel,AB-,1967-02-06,59,M
+PER347,acb69858b0eaeee6,González,Rodríguez,Luis,Luis González Rodríguez,Ragonvalia,O-,1982-04-21,44,F
+PER348,afda51ee8fe8dce7,Vargas,Castrillón,Lina,Lina Vargas Castrillón,Tenerife,A+,1961-04-21,65,F
+PER349,c2d98d7621f0c7da,Ortiz,Velasco,Estella,Estella Ortiz Velasco,Baranoa,A+,1974-12-22,51,F
+PER350,c39e8894381b418d,Ibarra,Villa,Jesús,Jesús Ibarra Villa,Zapayán,A-,1967-04-27,58,M
+PER351,c9d0d86190cb6bd0,Leal,Triana,Magda,Magda Leal Triana,Palmito,A-,1962-06-23,63,F
+PER352,d307cbd8ba59417f,Velásquez,Montoya,Andrés,Andrés Velásquez Montoya,San Alberto,A+,1991-04-21,35,M
+PER353,d61ef26bd70f2747,Arrieta,Villa,Maribel,Maribel Arrieta Villa,Tarqui,O-,1984-04-21,42,M
+PER354,d9e6016785c2410f,Gómez,Acosta,Marlene,Marlene Gómez Acosta,Arboleda,B+,1980-02-19,46,M
+PER355,da6dae2977c77850,Contreras,Osorio,Lilia,Lilia Contreras Osorio,Barbosa,O+,1976-04-21,50,F
+PER356,dfafe48e261974b2,Rico,Prada,Angélica,Angélica Rico Prada,Toledo,O+,2001-04-21,25,M
+PER357,e7b00fdedeea72b4,Muñoz,Corredor,Leidy,Leidy Muñoz Corredor,La Victoria,B+,1968-05-25,57,M
+PER358,f41e3e8d3942bc8f,Gómez,Aguirre,Luz,Luz Gómez Aguirre,San Vicente Ferrer,B-,1983-04-21,43,M
+PER359,fa7d33bf8ce6a82f,Calderón,Mejía,Jesús,Jesús Calderón Mejía,Tarso,A-,1999-04-21,27,F
+PER360,fc4bd5c0162a4d1a,Restrepo,Martínez,Doris,Doris Restrepo Martínez,Cogua,O+,1961-05-22,64,F
+PER361,ffb88785fa2bbe49,Villamil,Barreto,Yesenia,Yesenia Villamil Barreto,Tinjacá,AB-,1987-04-21,39,F
+PER362,0c184eef53271067,Moreno,Riascos,Mauricio,Mauricio Moreno Riascos,Villamaría,A-,1962-04-21,64,M
+PER363,88e6ff152356bab7,Monsalve,Torres,Fernanda,Fernanda Monsalve Torres,San Andrés de Sotavento,AB-,1960-08-30,65,M
+PER364,8dae7d5c0ebadcc6,Ramírez,Sanabria,Armando,Armando Ramírez Sanabria,Albán,A-,1976-04-21,50,M
+PER365,b58f84d49ab1ba56,Pérez,Vargas,María,María Pérez Vargas,Buenavista,AB-,1979-04-21,47,F
+PER366,ea088560b143667c,Torres,Triana,Yolanda,Yolanda Torres Triana,Acandí,B+,1987-04-04,39,F
+PER367,290de62ecfb49953,Aguilar,Rincón,Doris,Doris Aguilar Rincón,Neiva,O+,1982-04-21,44,M
+PER368,1ab2999401f036a7,Bedoya,Velasco,Rosa,Rosa Bedoya Velasco,Riosucio,AB+,1983-06-19,42,M
+PER369,36a6061d78df2f52,Pineda,Trujillo,Andrea,Andrea Pineda Trujillo,El Zulia,AB+,1970-06-09,55,F
+PER370,38f5c050a391d53d,Castillo,Pinzón,María,María Castillo Pinzón,Tocaima,B+,1969-05-09,56,M
+PER371,3e1e00a401b51f56,González,Barrios,Martha,Martha González Barrios,Boavita,B-,1972-04-21,54,M
+PER372,413e67b1c32aa74f,Miranda,Benavides,Tatiana,Tatiana Miranda Benavides,La Merced,A+,1961-04-21,65,F
+PER373,43a2775a368e19e4,Sanabria,Prieto,Patricia,Patricia Sanabria Prieto,Chocontá,B-,1990-04-21,36,F
+PER374,64cc5299a4a3bab6,Parra,Muñoz,María,María Parra Muñoz,Cocorná,B+,1982-04-21,44,M
+PER375,ab9f81dbe2c9a204,Sánchez,Ospina,Miguel,Miguel Sánchez Ospina,Fómeque,O+,1993-04-21,33,F
+PER376,ac90872e766f89cc,Quintero,Mesa,José,José Quintero Mesa,Barbosa,B-,1998-04-21,28,F
+PER377,ae505b29d092f0fe,Perdomo,Jiménez,Pilar,Pilar Perdomo Jiménez,Pinchote,O-,1973-08-31,52,M
+PER378,bcf5320bfa212880,Castillo,Ortega,Bertha,Bertha Castillo Ortega,Herrán,O+,1963-04-21,63,M
+PER379,e3aac6ba643b1810,Anaya,Lozano,Ana,Ana Anaya Lozano,Palestina,O-,1983-04-21,43,M
+PER380,eeb298e18a16f070,Garzón,Obando,Martha,Martha Garzón Obando,Viracachá,AB-,1966-04-21,60,M
+PER381,740f2a9bb8d51d9c,Vallejo,Rueda,Álvaro,Álvaro Vallejo Rueda,Mosquera,A-,1972-04-21,54,M
+PER382,040a3d0fb47612d1,Rodríguez,Álvarez,Pablo,Pablo Rodríguez Álvarez,Timaná,A+,1976-10-15,49,M
+PER383,9d43d274fd0aa41e,López,Pérez,Daniel,Daniel López Pérez,El Cantón del San Pablo,AB+,1999-08-02,26,M
+PER384,dc8013d3831dd385,Morales,García,José,José Morales García,Lorica,A-,1973-04-21,53,F
+PER385,2ae2e3929817f0cd,Gómez,Triana,Yamile,Yamile Gómez Triana,Medio San Juan,B-,1981-04-21,45,F
+PER386,2f03708c871be50d,Salamanca,Londoño,Rosa,Rosa Salamanca Londoño,Pauna,A-,1976-06-29,49,M
+PER387,6152d83784e6ecba,Gómez,Montenegro,Álvaro,Álvaro Gómez Montenegro,El Playón,O-,1977-04-21,49,F
+PER388,a2e548de0d8238ac,Cárdenas,Castillo,Humberto,Humberto Cárdenas Castillo,San Miguel,O+,1979-04-21,47,F
+PER389,a9fa0ed83838e4c5,Muñoz,Gallego,Cristian,Cristian Muñoz Gallego,La Pedrera,B-,1966-04-21,60,F
+PER390,d70f843f3a071bfa,Ortiz,Valencia,Mónica,Mónica Ortiz Valencia,Arboledas,A-,1976-12-09,49,F
+PER391,ee66106c9e13c687,Barreto,Villamizar,Cristina,Cristina Barreto Villamizar,Villeta,A+,1999-04-21,27,F
+PER392,61dd3025042e960d,Ortiz,Medina,Víctor,Víctor Ortiz Medina,Roberto Payán,B+,1989-04-21,37,F
+PER393,62eeac22bf57aab6,Mejía,Zambrano,Pedro,Pedro Mejía Zambrano,Palermo,A-,1994-04-21,32,F
+PER394,818cd5caec9a911c,Murcia,Guevara,Angélica,Angélica Murcia Guevara,Barranco de Loba,A-,1993-09-13,32,F
+PER395,8f4e6c1d0aa56a0a,Vélez,Escobar,Linda,Linda Vélez Escobar,Chivor,AB+,1957-12-21,68,F
+PER396,91abf4c9e24c83cc,Forero,Jaimes,Tatiana,Tatiana Forero Jaimes,Taminango,O+,1976-04-21,50,F
+PER397,98dd636eb39402e6,Benítez,Angarita,Sofía,Sofía Benítez Angarita,Urrao,B-,1985-05-05,40,M
+PER398,9b5ac55ce8d160a8,Ríos,Mora,Ruth,Ruth Ríos Mora,Copacabana,AB+,1990-04-21,36,M
+PER399,bb024b80ab321fa0,Correa,Ruiz,Eduardo,Eduardo Correa Ruiz,Tubará,O-,1999-04-21,27,F
+PER400,da2ad567996f1513,Rincón,Londoño,Ramiro,Ramiro Rincón Londoño,Carcasí,B-,1995-04-21,31,M
+PER401,e84ca66b809e818b,Mosquera,Henao,Edwin,Edwin Mosquera Henao,Curillo,O+,1994-07-20,31,F
+PER402,f39980fa3c6caed0,Quintero,Tovar,Yesid,Yesid Quintero Tovar,Sativanorte,A-,1985-04-21,41,F
+PER403,3e7d573204cdf582,Montes,González,Carlos,Carlos Montes González,San José de Cúcuta,B+,1963-04-23,62,F
+PER404,def0e208a20b407e,Ramírez,Garzón,Paula,Paula Ramírez Garzón,Norcasia,AB-,1976-03-14,50,F
+PER405,00ee2615c3010aca,Zambrano,Bernal,Dario,Dario Zambrano Bernal,Íquira,A-,1985-04-21,41,M
+PER406,459b4fd2aec8ef9f,Cárdenas,Hernández,Paola,Paola Cárdenas Hernández,Murillo,AB-,1970-10-27,55,M
+PER407,1bc60529dd97c5c0,Díaz,Toro,Rosa,Rosa Díaz Toro,Úmbita,B-,1961-07-11,64,F
+PER408,3f29b229cb13427c,Caicedo,Medina,Diana,Diana Caicedo Medina,Ciénaga de Oro,B+,1962-05-03,63,F
+PER409,5b6e9e8e95921500,Giraldo,Bonilla,Robinson,Robinson Giraldo Bonilla,Almaguer,A-,1975-04-21,51,F
+PER410,7d623181d0b1212a,Castellanos,Osorio,Dahiana,Dahiana Castellanos Osorio,Santa Cruz de Mompox,A+,1990-04-21,36,M
+PER411,8bfab66a1f92b894,Rodríguez,Pérez,Danna,Danna Rodríguez Pérez,Tuta,AB+,2001-04-21,25,F
+PER412,a656592d42c7b5b0,Valencia,Agudelo,María,María Valencia Agudelo,Florencia,B+,1988-04-21,38,F
+PER413,325d6327dcfc9103,Forero,Mendoza,Alexander,Alexander Forero Mendoza,Ataco,O+,1967-04-21,59,M
+PER414,368f60a587de331b,Becerra,Moreno,Angie,Angie Becerra Moreno,Buenaventura,B-,1985-04-21,41,F
+PER415,ceac402302ecc772,Serrano,Molina,Leonor,Leonor Serrano Molina,Tubará,O-,1977-05-12,48,M
+PER416,d041c3f20da77658,Bustos,Salazar,María,María Bustos Salazar,Palestina,A-,1983-04-21,43,F
+PER417,413e4280dfcddfb4,Prada,Bermúdez,Javier,Javier Prada Bermúdez,San Jacinto,B+,1986-04-21,40,M
+PER418,447a858dbd61a58f,Sanabria,Soto,William,William Sanabria Soto,Canalete,B-,1973-04-21,53,M
+PER419,6e5339b949ed5a5c,Carvajal,Ramos,Daniel,Daniel Carvajal Ramos,Calarcá,AB+,1970-05-23,55,M
+PER420,8030be9f05a04d4c,Domínguez,Rincón,Judith,Judith Domínguez Rincón,Guatapé,B-,1974-12-07,51,F
+PER421,8b8f4ab2583b86cd,Parra,Rodríguez,Valentina,Valentina Parra Rodríguez,Candelaria,B+,1989-04-21,37,M
+PER422,8d4fd222c2f42a62,Romero,Arrieta,Diego,Diego Romero Arrieta,Medio Atrato,A+,1963-04-21,63,F
+PER423,96f07cb1c7105b55,Gutiérrez,Muñoz,Iván,Iván Gutiérrez Muñoz,Armenia,O+,1992-04-21,34,M
+PER424,f8a50164d48994a1,Muñoz,Fernández,Estella,Estella Muñoz Fernández,Villarrica,O+,1962-04-21,64,F
+PER425,0fd1cdc4d1064f54,Jaramillo,Gutiérrez,Alexander,Alexander Jaramillo Gutiérrez,San Bernardo,AB-,1989-04-21,37,M
+PER426,1284241f9673ad6c,López,Torres,Patricia,Patricia López Torres,Pijao,B-,1961-04-21,65,F
+PER427,19854da58fe9e5c8,Peña,Vergara,Vanessa,Vanessa Peña Vergara,López de Micay,A-,1977-04-21,49,F
+PER428,34269a3cf3a59044,Figueroa,Ramírez,Juan,Juan Figueroa Ramírez,San Antonio,A-,2004-04-21,22,M
+PER429,16121a1f561aa354,Herrera,Ávila,José,José Herrera Ávila,Jesús María,B-,1965-04-21,61,M
+PER430,2f52a845120f1ddd,Hernández,Gómez,Jhon,Jhon Hernández Gómez,Zaragoza,A+,1967-04-21,59,F
+PER431,6233652871a8a191,Bustos,López,Patricia,Patricia Bustos López,Villamaría,B+,1988-04-21,38,F
+PER432,8ddf04dbce974ed6,Delgado,Fernández,Yineth,Yineth Delgado Fernández,Hatonuevo,AB+,1984-04-21,42,F
+PER433,9c44aa29a0c5d6e6,Perdomo,Soto,Luis,Luis Perdomo Soto,Belén,B-,1992-04-21,34,M
+PER434,d7c7904283d133de,López,Polo,Heidy,Heidy López Polo,Guapotá,O+,1962-04-21,64,M
+PER435,f0f97d1e44b46f20,Díaz,Castellanos,Marcela,Marcela Díaz Castellanos,Manaure,B-,1965-04-21,61,F
+PER436,f321d4df334767c1,Burbano,Navarro,Fanny,Fanny Burbano Navarro,Mitú,B-,2001-04-21,25,M
+PER437,f9db9917e9f6163b,Peña,Navarro,Nora,Nora Peña Navarro,Coveñas,AB+,1984-12-21,41,F
+PER438,393643db9a5d76bb,Amaya,Díaz,Germán,Germán Amaya Díaz,Chía,O+,1968-03-11,58,F
+PER439,3b14e86a56f931f9,Zapata,Zapata,Dairo,Dairo Zapata Zapata,Paz de Ariporo,O-,1968-04-21,58,F
+PER440,dbab5e8c664c32a8,López,Ríos,Pedro,Pedro López Ríos,San Calixto,B-,1970-03-20,56,M
+PER441,139475808a1105e9,Sánchez,Cerón,Elizabeth,Elizabeth Sánchez Cerón,San Vicente de Chucurí,A-,2004-04-21,22,M
+PER442,28d7ca56d8cb4928,Romero,Alzate,Martha,Martha Romero Alzate,Marulanda,A+,1980-04-21,46,M
+PER443,60984fe816f392fe,Bernal,Mercado,Pedro,Pedro Bernal Mercado,San Pablo de Borbur,O+,1981-04-21,45,F
+PER444,7ce90f06ce0bf941,Mendoza,González,Dario,Dario Mendoza González,Funes,A+,1991-04-21,35,M
+PER445,b0ad3929366b3eeb,Sierra,Valencia,Sofía,Sofía Sierra Valencia,San Pedro de los Milagros,B+,1991-04-21,35,F
+PER446,c4923683e4824939,Velásquez,Suárez,Alberto,Alberto Velásquez Suárez,Yotoco,AB-,1982-04-21,44,M
+PER447,d2163b09944c78f0,Guerrero,Díaz,Gustavo,Gustavo Guerrero Díaz,Guavatá,A+,1965-04-21,61,F
+PER448,f71aa45a2de34c11,Gallego,Salazar,Lucía,Lucía Gallego Salazar,Cachipay,B-,1987-08-02,38,M
+PER449,40503feb43496882,Pacheco,Martínez,María,María Pacheco Martínez,Río Iró,O-,1991-04-21,35,F
+PER450,501298290db5ed7a,Martínez,Flórez,Aura,Aura Martínez Flórez,Coromoro,A+,1968-06-25,57,M
+PER451,83fbefddfb61a5cb,Quintero,Camargo,Ruth,Ruth Quintero Camargo,Salento,O+,1968-04-21,58,M
+PER452,c77759456bdf8716,Ávila,Salcedo,Emilio,Emilio Ávila Salcedo,Altos del Rosario,B+,1962-04-21,64,M
+PER453,232fcbcb74e9be02,Contreras,Rodríguez,Isabel,Isabel Contreras Rodríguez,Riosucio,AB+,2002-04-21,24,F
+PER454,37821b7dcaea76b6,Perdomo,Guerrero,Diana,Diana Perdomo Guerrero,Bolívar,A+,1972-04-21,54,M
+PER455,4815fe7cdc2712f9,Figueroa,Gil,Johan,Johan Figueroa Gil,Guamal,O+,1981-05-14,44,M
+PER456,a73aa82938e1bbf0,Castaño,Díaz,Andrea,Andrea Castaño Díaz,Cácota,B-,1994-04-21,32,F
+PER457,ab798d87e7afb0f8,Agudelo,Carvajal,Damián,Damián Agudelo Carvajal,Ipiales,A+,1985-05-14,40,F
+PER458,ca7537441f76dc1e,Palacios,Ortiz,Julio,Julio Palacios Ortiz,Sibaté,A+,2002-04-21,24,M
+PER459,d0a75e9273bce792,Montoya,Tovar,Luis,Luis Montoya Tovar,San Jerónimo,A-,1978-12-30,47,M
+PER460,d96a74327b4e1aa5,Gaviria,Mesa,Juliana,Juliana Gaviria Mesa,Juradó,AB+,1958-07-28,67,M
+PER461,e4ae9124b6255953,Arboleda,Guzmán,Inés,Inés Arboleda Guzmán,Inzá,A-,2002-04-21,24,F
+PER462,f9adc49e55193b65,Padilla,Carvajal,Andrea,Andrea Padilla Carvajal,Ábrego,B+,1968-01-22,58,F
+PER463,25ff22e55806b050,Aguirre,Palacios,Rosa,Rosa Aguirre Palacios,Capitanejo,AB-,1961-06-30,64,M
+PER464,2b7b16da8c57a7a4,Sandoval,Forero,Alejandro,Alejandro Sandoval Forero,Pore,AB+,2001-04-21,25,F
+PER465,3054a06601ff8faf,Rodríguez,Velandia,Wilson,Wilson Rodríguez Velandia,San Joaquín,O+,1967-04-21,59,M
+PER466,33a8d060fe3b5b0a,Pardo,Jiménez,Ana,Ana Pardo Jiménez,Zapatoca,O+,1974-04-12,52,F
+PER467,39662d84cf877414,Zuluaga,Torres,Yeison,Yeison Zuluaga Torres,Sabanalarga,O+,1996-04-21,30,F
+PER468,3e0f93eaba00e022,Giraldo,Ramírez,Jorge,Jorge Giraldo Ramírez,Aldana,B+,1963-10-31,62,F
+PER469,6f887a9dfdfee3cb,Vergara,Arias,María,María Vergara Arias,El Calvario,A-,1973-04-21,53,F
+PER470,90cbda6be16d5181,Salazar,Álvarez,Didier,Didier Salazar Álvarez,Jambaló,A+,1968-04-21,58,M
+PER471,b1fc0914204e251d,Carrillo,Fuentes,Enrique,Enrique Carrillo Fuentes,Pesca,A+,1964-04-21,62,F
+PER472,d0f6e6e591a011b2,Arenas,Rodríguez,Hugo,Hugo Arenas Rodríguez,Tenza,B-,2000-04-21,26,M
+PER473,ee0b4a4c5c4cb3f8,Mora,Villegas,Abelardo,Abelardo Mora Villegas,Pijiño del Carmen,A-,1962-12-13,63,M
+PER474,3fb1cdd285f07d90,Ortega,Arrieta,Elsa,Elsa Ortega Arrieta,Girardota,A+,1966-02-23,60,M
+PER475,cb1b221fc5a24939,Rojas,Villamizar,Alberto,Alberto Rojas Villamizar,Guacamayas,A+,2001-04-21,25,M
+PER476,cda87c2d66c2280b,Duarte,Gómez,Ingrid,Ingrid Duarte Gómez,Sáchica,B-,1977-04-21,49,M
+PER477,48483a73305029d6,Mendoza,Moreno,Junior,Junior Mendoza Moreno,Quetame,A+,2001-04-21,25,M
+PER478,6ebb2f40273e39fd,Jiménez,Bonilla,Alejandro,Alejandro Jiménez Bonilla,Valparaíso,A-,1990-04-21,36,F
+PER479,10d0b82461e9d324,Mesa,Álvarez,José,José Mesa Álvarez,Alvarado,AB-,1968-04-28,57,M
+PER480,2aad74a68b8836e6,Reyes,Mendoza,Jorge,Jorge Reyes Mendoza,San Juan de Rioseco,B+,1970-07-31,55,M
+PER481,3a5517852d3f0e17,Quintero,Henao,Daniel,Daniel Quintero Henao,Íquira,AB+,1992-04-21,34,M
+PER482,6a86e651e0dcb866,Patiño,Cardona,Hugo,Hugo Patiño Cardona,Tasco,O+,1968-12-26,57,F
+PER483,ad7abc44194285df,López,Torres,Estefanía,Estefanía López Torres,Sabanalarga,A-,1978-04-21,48,F
+PER484,af21a5abf96ddf00,Gaviria,Barrera,Carlos,Carlos Gaviria Barrera,Caucasia,B+,1993-04-21,33,F
+PER485,d1f6100b654e7b17,Cárdenas,Torres,Johana,Johana Cárdenas Torres,Juradó,B+,1959-02-02,67,F
+PER486,09e5c0bc83ed4aa2,Suárez,Tamayo,Jair,Jair Suárez Tamayo,Quípama,AB-,1988-04-21,38,F
+PER487,0ab182613a886fd7,Morales,Sánchez,Luis,Luis Morales Sánchez,Versalles,B+,1988-12-01,37,F
+PER488,14fac95d78135521,Sepúlveda,Álvarez,Patricia,Patricia Sepúlveda Álvarez,Sutamarchán,A-,1965-04-21,61,M
+PER489,2641db7ea40cd79b,Osorio,Ortiz,Freddy,Freddy Osorio Ortiz,Arauca,AB+,1998-04-21,28,M
+PER490,29b610508644b107,Martínez,González,Fredy,Fredy Martínez González,Puerto Wilches,B-,1991-04-21,35,F
+PER491,31c6c97c8e5d9a11,García,Sánchez,Jesús,Jesús García Sánchez,Florida,A+,1992-04-21,34,F
+PER492,339626e11b4fc0c6,Ortega,Mosquera,Marina,Marina Ortega Mosquera,El Carmen,B+,1973-10-28,52,F
+PER493,4439fabba31bed05,Beltrán,Maldonado,Alicia,Alicia Beltrán Maldonado,Sipí,B-,2001-08-08,24,M
+PER494,4e37f75fdbc6ff99,Bautista,Paz,Nelly,Nelly Bautista Paz,Guadalupe,B+,2000-03-11,26,M
+PER495,52481a4b4080bd23,Jaimes,Vélez,Alberto,Alberto Jaimes Vélez,Remolino,O-,1973-04-21,53,M
+PER496,53d46dd02c65f747,López,Serna,Esteban,Esteban López Serna,Tibaná,AB-,1985-04-21,41,F
+PER497,6621b0b02b0199c6,Cortés,Peña,Andrey,Andrey Cortés Peña,Nilo,AB+,1993-04-21,33,M
+PER498,732a82c5a9a53518,Caicedo,Ávila,Ricardo,Ricardo Caicedo Ávila,San Cristóbal,AB+,1993-12-05,32,F
+PER499,80c913ae67c5d62f,Mora,García,David,David Mora García,La Celia,B+,1992-11-15,33,M
+PER500,817df5dd14346161,Flórez,Anaya,Juan,Juan Flórez Anaya,Jordán,O-,1982-04-21,44,F
+PER501,862073b634327257,Marín,Martínez,Hernán,Hernán Marín Martínez,Mongua,O-,1987-04-21,39,F
+PER502,8bb91a20fe0e540b,Romero,Restrepo,Gloria,Gloria Romero Restrepo,Ricaurte,AB+,1989-02-24,37,M
+PER503,8f29fe6cf578234d,López,Rodríguez,Paula,Paula López Rodríguez,Buriticá,AB-,1972-04-21,54,F
+PER504,a452c31c0e51fc8e,Gómez,Agudelo,Guillermo,Guillermo Gómez Agudelo,El Playón,A+,1987-04-21,39,F
+PER505,aba892d7f92a676f,Ceballos,Romero,Álvaro,Álvaro Ceballos Romero,Vianí,A-,1980-04-21,46,M
+PER506,b1a04410f251311b,Parra,Pérez,Alfonso,Alfonso Parra Pérez,Belalcázar,A-,1967-04-26,58,F
+PER507,c0da9edbc63759f9,Bolívar,Silva,Luis,Luis Bolívar Silva,Guaduas,O+,1977-04-21,49,M
+PER508,c276a96bf05c7ff3,García,Guerrero,Nelson,Nelson García Guerrero,Apulo,O+,2001-12-11,24,M
+PER509,cb51b06817deecbc,Lara,Ramos,Dario,Dario Lara Ramos,La Playa,B+,1987-10-22,38,F
+PER510,cea94e33467ba583,Castro,Gallego,Daniel,Daniel Castro Gallego,Armenia,A+,2003-04-21,23,F
+PER511,ceb16c672ea1cf20,Moreno,Torres,Augusto,Augusto Moreno Torres,Apartadó,A-,1976-04-21,50,F
+PER512,d910e1dc4a6a1abf,Patiño,Pinzón,Esteban,Esteban Patiño Pinzón,Colón,B+,1971-03-18,55,M
+PER513,dfb572e63247899d,Suárez,Rueda,Mario,Mario Suárez Rueda,Remedios,B-,2002-10-16,23,F
+PER514,e2da909fc069927c,Navarro,Díaz,Enrique,Enrique Navarro Díaz,Caicedo,AB-,1988-04-21,38,F
+PER515,e5c52add57e2536b,Jaramillo,Morales,Humberto,Humberto Jaramillo Morales,Milán,O-,1983-04-21,43,F
+PER516,eeb03ecbd57610fa,Mercado,Bernal,Fernando,Fernando Mercado Bernal,San Alberto,O+,1994-04-21,32,M
+PER517,eff5268ebe93bd94,Campo,Gómez,Adrián,Adrián Campo Gómez,Gámeza,AB+,1979-03-04,47,M
+PER518,fbfd7f7b9f77de74,Cruz,Rendón,Jorge,Jorge Cruz Rendón,Sesquilé,A-,2000-04-21,26,M
+PER519,fda53be35f1a0241,Duque,García,Constanza,Constanza Duque García,Ciénaga de Oro,B-,1963-04-21,63,M
+PER520,0bab7fe9fc09418e,Castellanos,Montenegro,Gildardo,Gildardo Castellanos Montenegro,Coello,AB+,1995-04-21,31,M
+PER521,0fcf312b528a7b20,Contreras,Sierra,Isabel,Isabel Contreras Sierra,Santo Tomás,B-,1984-01-01,42,F
+PER522,11aa88c8f98240ab,Cárdenas,Barragán,Ana,Ana Cárdenas Barragán,Encino,O+,1979-01-20,47,F
+PER523,14ada6c419b0759e,Pinzón,Chacón,Isabel,Isabel Pinzón Chacón,La Cumbre,O-,1986-04-21,40,M
+PER524,176e43941d89f6ad,Chaparro,Díaz,Jimena,Jimena Chaparro Díaz,La Uvita,B-,1986-02-19,40,F
+PER525,1987b734f02c9dbf,Pabón,Guerra,Uriel,Uriel Pabón Guerra,Yaguará,AB-,1988-07-03,37,M
+PER526,1c96463a489c08a6,Aguirre,Giraldo,Sonia,Sonia Aguirre Giraldo,Betulia,O+,1973-04-21,53,F
+PER527,1ff440823a81aa83,Ojeda,Pardo,Jairo,Jairo Ojeda Pardo,San Pablo de Borbur,A+,1983-04-21,43,F
+PER528,227e729a532be7cd,Guevara,Bravo,Martha,Martha Guevara Bravo,Magüí,A-,1988-08-14,37,M
+PER529,29d523175fe975fd,Rojas,Mendoza,Esther,Esther Rojas Mendoza,Valparaíso,B-,1963-04-21,63,M
+PER530,373aa4985443f749,Barrios,Pacheco,Carlos,Carlos Barrios Pacheco,Zetaquira,O-,1973-08-14,52,F
+PER531,410ffb4f59654c73,Córdoba,Guzmán,Hernando,Hernando Córdoba Guzmán,Toledo,A+,1992-04-21,34,F
+PER532,47105d6781677c3b,Cuesta,Salazar,Eduardo,Eduardo Cuesta Salazar,Palmas del Socorro,AB+,1986-04-21,40,F
+PER533,4cf3925b8900afe4,Perdomo,Sánchez,Johanna,Johanna Perdomo Sánchez,Sabaneta,AB-,1986-04-21,40,M
+PER534,4dadbd755691255f,Mendoza,Torres,Alonso,Alonso Mendoza Torres,Tame,A+,1969-04-21,57,M
+PER535,54a27f0d924f7833,Salas,Villegas,Juan,Juan Salas Villegas,Melgar,A+,2000-06-25,25,F
+PER536,5531e1eefdcafd49,Romero,López,Miguel,Miguel Romero López,Concordia,A+,1987-07-11,38,M
+PER537,5cb11398b80cf9dd,Quintero,Martínez,Patricia,Patricia Quintero Martínez,San Pedro de Urabá,A+,1966-12-21,59,F
+PER538,5dc6fa980f925590,Díaz,Rodríguez,Rafael,Rafael Díaz Rodríguez,Vijes,A-,1992-04-21,34,F
+PER539,5f3f54699b6f259d,García,Villamil,Luis,Luis García Villamil,Matanza,A+,1975-04-21,51,F
+PER540,6857e88d0d23a716,Sánchez,López,Claudia,Claudia Sánchez López,Oporapa,O+,1982-04-21,44,F
+PER541,688ee3e3013ef606,Castro,Barragán,Diana,Diana Castro Barragán,Fómeque,AB+,1975-04-21,51,F
+PER542,6a05628958c4631c,Gómez,Núñez,Manuel,Manuel Gómez Núñez,Chivor,A+,2002-04-21,24,F
+PER543,6e1f34ad574421d1,Tovar,Contreras,Stiven,Stiven Tovar Contreras,Cisneros,B+,1979-04-21,47,M
+PER544,790c223245553e24,Calderón,Gaitán,Marcela,Marcela Calderón Gaitán,Arcabuco,AB+,1961-04-21,65,M
+PER545,7da3a0454572696c,Ramírez,Sánchez,Elizabeth,Elizabeth Ramírez Sánchez,Recetor,AB+,1969-04-21,57,M
+PER546,8110e958de347463,León,Cruz,Miguel,Miguel León Cruz,Charta,AB-,1976-04-21,50,F
+PER547,92d9fb94fa28ef5a,Moreno,Vargas,Alejandro,Alejandro Moreno Vargas,San Pedro de los Milagros,O-,1990-04-21,36,M
+PER548,9b3a7ac3b833fda6,Rodríguez,Castillo,José,José Rodríguez Castillo,La Unión,AB+,1957-06-03,68,F
+PER549,9eb5cf69d33381cc,López,González,Alberto,Alberto López González,Sibaté,A+,1988-02-07,38,F
+PER550,a3c005f848ed9cf5,Castaño,García,Natalia,Natalia Castaño García,Retiro,A-,1961-04-21,65,M
+PER551,a68613dd965a7c88,Pardo,Parra,Amparo,Amparo Pardo Parra,Piendamó - Tunía,O+,1968-04-21,58,M
+PER552,a76de5d20168284a,Álvarez,Reyes,Lady,Lady Álvarez Reyes,Tamalameque,AB+,1965-03-12,61,M
+PER553,bfcada0180588854,Camacho,Mosquera,Johana,Johana Camacho Mosquera,San Cayetano,A+,1984-04-21,42,M
+PER554,cb91178e9fdbb183,Cifuentes,Bravo,Fernando,Fernando Cifuentes Bravo,Cajamarca,A-,1970-04-21,56,F
+PER555,cce0764994ea6aad,Pacheco,Castro,José,José Pacheco Castro,Honda,B+,1979-02-27,47,M
+PER556,ce1d2584b6c32215,García,Angulo,Yaneth,Yaneth García Angulo,Colón,A+,1968-04-21,58,M
+PER557,ce6df09691e4d96a,Gómez,Cáceres,Gustavo,Gustavo Gómez Cáceres,California,O-,1966-04-21,60,M
+PER558,d32b7b552d81b76b,Palacios,Pérez,Antonio,Antonio Palacios Pérez,La Macarena,AB-,1969-04-21,57,F
+PER559,da8d950b4d8cf272,Romero,Londoño,María,María Romero Londoño,Génova,B-,1981-05-12,44,M
+PER560,db9d2c115de275a5,Gutiérrez,Álvarez,Gloria,Gloria Gutiérrez Álvarez,Argelia,B+,1989-10-27,36,M
+PER561,f48059bdc0d0878f,Trujillo,Acevedo,María,María Trujillo Acevedo,Puerto Asís,B+,1985-04-21,41,F
+PER562,0f23f7a3a8fe1b6e,Gaitán,Mora,Karen,Karen Gaitán Mora,Toro,AB-,1998-04-21,28,F
+PER563,aab09ac14b741d00,Camargo,Vásquez,Patricia,Patricia Camargo Vásquez,Ariguaní,B+,1995-04-21,31,M
+PER564,ae356d620c9d2772,Quintero,Salgado,Roberto,Roberto Quintero Salgado,Rionegro,B+,2001-04-21,25,F
+PER565,d31feb4885eb1109,Acosta,Agudelo,Andrea,Andrea Acosta Agudelo,Tierralta,A-,1996-04-21,30,F
+PER566,deb359a9322f2b7d,Córdoba,Alzate,Ana,Ana Córdoba Alzate,Santa Marta,O+,1981-08-03,44,F
+PER567,0605386c4a67ae0c,Arias,Marín,Norma,Norma Arias Marín,Cantagallo,A+,1977-04-21,49,M
+PER568,0726728b019c6a09,Delgado,Gómez,Aleida,Aleida Delgado Gómez,Albán,B+,1967-04-21,59,F
+PER569,30ebcd5b8f110158,Salas,Cruz,María,María Salas Cruz,Santo Domingo,A+,2003-04-21,23,F
+PER570,3627e75fe47b0573,Reyes,Rojas,Lina,Lina Reyes Rojas,Samacá,AB-,1974-01-06,52,F
+PER571,4434d14fd3de1fca,Quintero,Bonilla,María,María Quintero Bonilla,Pachavita,AB-,1968-04-21,58,M
+PER572,b957152924c97783,Sánchez,Reyes,Edward,Edward Sánchez Reyes,Santa Bárbara,B-,1985-05-06,40,F
+PER573,ca0e641ea36fc20b,Pulido,Yepes,José,José Pulido Yepes,El Carmen de Atrato,O-,1992-04-21,34,F
+PER574,e46a1124c7caf72d,Arteaga,Chaparro,Blanca,Blanca Arteaga Chaparro,Chinácota,AB+,1984-06-18,41,F
+PER575,f275b010cdb58e9b,Rodríguez,Pedraza,Orlando,Orlando Rodríguez Pedraza,Talaigua Nuevo,O-,1967-11-18,58,M
+PER576,1ccdea6a910ab3ea,González,Rojas,Jhon,Jhon González Rojas,Caldas,A-,1969-06-21,56,M
+PER577,3e936b043b760842,Fajardo,Arrieta,Harold,Harold Fajardo Arrieta,Planeta Rica,AB-,1994-04-21,32,M
+PER578,5d6f1e652d062288,Rincón,Martínez,Leidy,Leidy Rincón Martínez,Socha,A-,1981-04-21,45,M
+PER579,b7379d78dfa653ae,Guzmán,Garzón,Francisco,Francisco Guzmán Garzón,Los Patios,O+,1979-08-15,46,F
+PER580,e0fdecede567e7a4,Escobar,López,Rodolfo,Rodolfo Escobar López,Majagual,O-,2000-04-21,26,M
+PER581,e3804e5e09b6155b,Martínez,Martínez,Juan,Juan Martínez Martínez,La Macarena,B+,1968-03-20,58,M
+PER582,04f22f02ec422132,Rincón,Lozano,Antonio,Antonio Rincón Lozano,Gramalote,B+,1979-05-22,46,M
+PER583,786a64cdf752aa38,Murillo,Restrepo,Alonso,Alonso Murillo Restrepo,Villapinzón,O-,1976-01-18,50,M
+PER584,82b6181a30cf3bfb,Bernal,Blanco,Campo,Campo Bernal Blanco,Siachoque,A+,1974-04-21,52,M
+PER585,8d58c466117e4ec8,Muñoz,Melo,Lucila,Lucila Muñoz Melo,Santa Rosa de Osos,AB-,1983-04-21,43,F
+PER586,9b8a9ca39b7e9154,Quiroz,Ardila,Marina,Marina Quiroz Ardila,El Retén,O+,1963-04-21,63,F
+PER587,b20dcbccd8f353f2,García,Córdoba,Moisés,Moisés García Córdoba,Purísima de la Concepción,A+,2000-04-21,26,F
+PER588,cffd68292379dce6,Castañeda,Arévalo,Alonso,Alonso Castañeda Arévalo,Albania,O+,1968-09-29,57,M
+PER589,e42ac1a5963df52e,Vega,Ramírez,Ingrid,Ingrid Vega Ramírez,Buesaco,AB-,1999-04-21,27,M
+PER590,e461af037ae0c2bf,Becerra,Gómez,María,María Becerra Gómez,Achí,A+,1974-04-21,52,F
+PER591,fcf7d0070a8895d0,Pérez,Silva,Alicia,Alicia Pérez Silva,Jordán,B+,1972-12-20,53,F
+PER592,6000f693635e73a8,Arboleda,Gómez,María,María Arboleda Gómez,El Tarra,O+,1990-11-19,35,M
+PER593,c4d5da60ea6c2af4,Rodríguez,Serna,Jennifer,Jennifer Rodríguez Serna,Valle del Guamuez,B+,1961-04-21,65,M
+PER594,2be7fac2d9391a2e,González,Cardona,Paola,Paola González Cardona,La Cruz,AB+,1985-04-21,41,F
+PER595,322e133fefe28f36,Barrera,Cardozo,Jesús,Jesús Barrera Cardozo,El Banco,B-,1963-09-01,62,M
+PER596,40a61753e102c32d,León,Rosero,Miriam,Miriam León Rosero,Yacopí,AB-,1974-04-21,52,F
+PER597,578a1d6ecffce81c,Peña,Meza,Paola,Paola Peña Meza,Arenal,O-,1969-04-21,57,M
+PER598,5e51ab3eea74988a,Moreno,Vargas,Laura,Laura Moreno Vargas,Abriaquí,B+,1973-04-21,53,F
+PER599,99d416665640d508,Anaya,Cerón,Ximena,Ximena Anaya Cerón,Zipaquirá,A-,1980-04-21,46,F
+PER600,a019e1d83a74d17d,Caicedo,Pineda,Alicia,Alicia Caicedo Pineda,Nocaima,A-,1978-04-21,48,M
+PER601,a226ae8470c3facc,Jiménez,Lozano,Anderson,Anderson Jiménez Lozano,Sativanorte,O+,1992-04-21,34,M
+PER602,02e4db1e3dcb503d,Cortés,Ramírez,Alejandro,Alejandro Cortés Ramírez,Palmito,B+,1964-04-10,62,M
+PER603,64a6f7e9812d41e5,Ospino,Herrera,Jesús,Jesús Ospino Herrera,Puerto Nariño,AB-,1967-08-16,58,F
+PER604,65ce6a246c8d7ede,Palacios,Chacón,Armando,Armando Palacios Chacón,Malambo,AB+,1971-04-21,55,F
+PER605,697f2bfc5c6fcfab,Parra,Vargas,Eugenia,Eugenia Parra Vargas,Nuquí,A+,1990-04-21,36,F
+PER606,6bb837109b56622a,Hernández,Gonzáles,Ingrid,Ingrid Hernández Gonzáles,Angelópolis,AB-,1968-04-21,58,F
+PER607,944823f146c61c15,López,Meza,Denis,Denis López Meza,San Carlos,O-,2003-04-21,23,F
+PER608,9864b5afb9c666de,Mora,Ardila,Jaime,Jaime Mora Ardila,Concepción,B-,1977-09-08,48,M
+PER609,a7b4bc78dd360d91,Hernández,González,Eugenia,Eugenia Hernández González,Toledo,AB+,1975-04-21,51,F
+PER610,a7ee79e36f3a67c9,Maldonado,Marín,Francia,Francia Maldonado Marín,Uramita,B+,1970-10-06,55,F
+PER611,b7b8d94be82e8cce,Moreno,Gallego,Beatriz,Beatriz Moreno Gallego,Remolino,O+,1982-04-21,44,F
+PER612,6e0719a8e01a72d5,Andrade,García,Antonio,Antonio Andrade García,Paipa,O+,1992-07-11,33,F
+PER613,08e19d3a7d97923e,Aguilar,Solano,Luis,Luis Aguilar Solano,Villa de Leyva,O+,1959-09-26,66,F
+PER614,4f8a108fdded13f3,Acevedo,Medina,Yulieth,Yulieth Acevedo Medina,Yotoco,B+,1981-05-30,44,M
+PER615,4fd2e623a97a44fc,Rodríguez,Arévalo,María,María Rodríguez Arévalo,Soledad,O+,1982-04-21,44,F
+PER616,53def1fe25883e1d,Díaz,Miranda,Cristian,Cristian Díaz Miranda,Cabrera,B+,1970-04-21,56,M
+PER617,56162fb64047ea04,Daza,Marín,Astrid,Astrid Daza Marín,Rionegro,B+,1963-05-20,62,F
+PER618,5aea48b3203396ac,Ruiz,Acosta,Patricia,Patricia Ruiz Acosta,Medio Baudó,AB-,1994-04-21,32,F
+PER619,5e77baafbf9f3f11,Hernández,Flórez,Alfonso,Alfonso Hernández Flórez,San Andrés de Tumaco,A+,1969-04-21,57,M
+PER620,5eaa00962c7a69a3,Díaz,Patiño,Héctor,Héctor Díaz Patiño,Nimaima,B-,1977-12-23,48,M
+PER621,7323172512e77d7b,Domínguez,Villamizar,Jorge,Jorge Domínguez Villamizar,Ricaurte,A-,1983-01-22,43,M
+PER622,7f88e19a195e7f08,Martínez,Becerra,Brayan,Brayan Martínez Becerra,Ramiriquí,A-,1977-01-10,49,M
+PER623,9b6dd9f269099151,Mercado,Salazar,Amparo,Amparo Mercado Salazar,Briceño,O-,1972-12-17,53,M
+PER624,a097bdf0e617ac8e,Suárez,Tovar,Jhon,Jhon Suárez Tovar,La Argentina,AB-,1977-07-06,48,F
+PER625,a44b7d923f615e39,Zambrano,Ochoa,María,María Zambrano Ochoa,Chalán,O-,1972-04-21,54,M
+PER626,ab76a92ee105ea4f,Salas,Hernández,Yéssica,Yéssica Salas Hernández,Saldaña,A-,1957-05-08,68,M
+PER627,c7962e528e6ee9e2,Soto,Hernández,Gladys,Gladys Soto Hernández,Villagarzón,A+,1993-04-21,33,F
+PER628,de7470d403120667,Restrepo,Restrepo,Dayana,Dayana Restrepo Restrepo,Génova,B-,1976-04-21,50,F
+PER629,e276a4a1c73e807b,Gómez,Mora,Claudia,Claudia Gómez Mora,Susacón,AB+,1969-04-21,57,F
+PER630,ea87d98fdafc2e8a,Romero,Montoya,Kelly,Kelly Romero Montoya,Jordán,AB+,1992-04-21,34,F
+PER631,edb233acd030672e,Pulido,Ramírez,Mauricio,Mauricio Pulido Ramírez,Campoalegre,AB+,1997-04-21,29,F
+PER632,f2bb2bc9a595abee,Buitrago,Bermúdez,Alejandro,Alejandro Buitrago Bermúdez,Luruaco,A+,1982-04-21,44,F
+PER633,f3bddb57f8bbb37d,Corredor,Díaz,Enrique,Enrique Corredor Díaz,San Miguel,A-,1983-05-12,42,F
+PER634,f525627e2ab4ca92,Toro,León,Emilio,Emilio Toro León,Lenguazaque,A-,1973-03-24,53,M
+PER635,0a51bff81b11435b,Quintero,Mendoza,Leydi,Leydi Quintero Mendoza,Iles,O+,1989-04-21,37,F
+PER636,107741bc93476aa6,Oviedo,Padilla,María,María Oviedo Padilla,San Zenón,AB-,1967-07-14,58,F
+PER637,29f133867ad4c2dd,Rojas,Rodríguez,Jesús,Jesús Rojas Rodríguez,Guatavita,A-,1990-05-21,35,F
+PER638,70c67d4a73b05c7a,Mejía,Posada,Deicy,Deicy Mejía Posada,El Doncello,B+,1978-04-21,48,M
+PER639,99aacae4d141330c,Alarcón,Cáceres,Clara,Clara Alarcón Cáceres,Boavita,AB-,2003-04-21,23,F
+PER640,9aedc77eb803554c,Beltrán,Díaz,Liliana,Liliana Beltrán Díaz,Purísima de la Concepción,A-,1980-01-08,46,F
+PER641,56526dbac2af1b0a,Osorio,Zapata,Antonio,Antonio Osorio Zapata,Puerto Gaitán,A-,2002-04-21,24,F
+PER642,6704566985dd7ad4,Castillo,Villegas,Edith,Edith Castillo Villegas,San Pablo de Borbur,A+,1980-04-21,46,F
+PER643,c285e2ea0c60e99b,Castro,Ceballos,Esteban,Esteban Castro Ceballos,Caparrapí,AB+,2002-04-21,24,M
+PER644,d595b3dcbd672dc5,Burgos,González,Ramón,Ramón Burgos González,Icononzo,B-,1994-04-21,32,F
+PER645,d5c17283319cbaec,Pérez,Rosero,Concepción,Concepción Pérez Rosero,Albania,A+,1968-01-09,58,F
+PER646,fca9fc47f33d4a6e,Gómez,Reyes,Jorge,Jorge Gómez Reyes,Sardinata,B-,1959-05-07,66,F
+PER647,26c6048b6822ce0c,Velásquez,Martínez,María,María Velásquez Martínez,Tangua,B-,1971-04-21,55,F
+PER648,02f1c49941f83c4a,Villa,Pardo,Mario,Mario Villa Pardo,Arroyohondo,A+,1979-04-21,47,M
+PER649,0c145bbfa311fec7,Estrada,Cruz,Clara,Clara Estrada Cruz,Beltrán,AB-,1960-01-29,66,F
+PER650,1c0a4220ea77ae8a,Osorio,Giraldo,Edilson,Edilson Osorio Giraldo,Almeida,O-,1982-08-01,43,F
+PER651,1d7da262b47c54cf,Moreno,Ayala,Michael,Michael Moreno Ayala,Mosquera,B-,1984-04-21,42,F
+PER652,2317a18f9394c2aa,Rojas,Ruiz,Patricia,Patricia Rojas Ruiz,La Paz,O-,1998-04-21,28,M
+PER653,2b962ef528b38c29,Martínez,Escobar,José,José Martínez Escobar,La Cruz,AB+,1972-04-21,54,M
+PER654,3d1b996a21722a14,Rojas,Blanco,Luis,Luis Rojas Blanco,Toribío,B-,1967-04-21,59,M
+PER655,502e91c0b3e23092,Medina,León,Sara,Sara Medina León,Salamina,A-,1989-07-24,36,F
+PER656,61f29fac88f07bd3,Londoño,Valderrama,Marcela,Marcela Londoño Valderrama,Simijaca,B+,1983-07-15,42,F
+PER657,6352c09870de7288,Montes,Carvajal,Néstor,Néstor Montes Carvajal,Güicán de la Sierra,A+,1973-04-21,53,F
+PER658,67b63e0bd63fefac,Murillo,Gil,Katherine,Katherine Murillo Gil,Puerto Lleras,A-,1975-04-21,51,M
+PER659,69bc39b6efea221d,León,Torres,David,David León Torres,Yarumal,O+,1985-04-21,41,F
+PER660,6db867bee9f5ef42,Gutiérrez,Alvarado,Cielo,Cielo Gutiérrez Alvarado,Fuente de Oro,AB+,1979-04-21,47,M
+PER661,8ca8c2b69188fac9,Gómez,Arrieta,Laura,Laura Gómez Arrieta,Cajamarca,O-,1971-04-21,55,F
+PER662,95a31450a255614e,Hurtado,Muñoz,Fabiola,Fabiola Hurtado Muñoz,Cabuyaro,O-,1981-04-21,45,M
+PER663,979b7e1ad90951ae,Suárez,Murillo,Adriana,Adriana Suárez Murillo,El Cantón del San Pablo,B-,1987-04-21,39,M
+PER664,aa435d480c0e3831,Anaya,Restrepo,Rafael,Rafael Anaya Restrepo,Pulí,A+,1967-04-21,59,M
+PER665,b0f51b1072da9a6b,Salamanca,Moreno,Fernanda,Fernanda Salamanca Moreno,Palmar,B+,1965-04-21,61,F
+PER666,b8db782c771d37cd,Moreno,Córdoba,Benjamín,Benjamín Moreno Córdoba,Quimbaya,O+,1988-04-22,37,M
+PER667,c2aedc4b1a6915fc,Pinzón,Ramírez,Consuelo,Consuelo Pinzón Ramírez,Momil,AB-,1977-04-21,49,F
+PER668,c4bd10e6290a3227,Velásquez,Ramírez,Alexander,Alexander Velásquez Ramírez,Guachené,AB+,2001-04-21,25,M
+PER669,ca706a8ed74714a2,Jiménez,Meza,Antonio,Antonio Jiménez Meza,Chachagüí,A-,1971-04-21,55,F
+PER670,d04a08d73e54e530,González,Álvarez,Gloria,Gloria González Álvarez,Lorica,AB-,1979-04-21,47,M
+PER671,deb60eecc2c43aad,Galindo,Ramírez,Sergio,Sergio Galindo Ramírez,Cotorra,A-,2002-04-21,24,M
+PER672,fb7ad28d622849f1,Miranda,Mosquera,Abelardo,Abelardo Miranda Mosquera,Mistrató,AB-,1972-04-21,54,M
